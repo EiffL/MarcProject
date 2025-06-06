@@ -1,0 +1,20 @@
+{
+   "stamp" : true,
+   "sources" : [
+      {
+         "usage" : "toplevel",
+         "filename" : "aanda.tex"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "aa.bst"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "library.bib"
+      }
+   ],
+   "process" : {
+      "compiler" : "pdflatex"
+   }
+}

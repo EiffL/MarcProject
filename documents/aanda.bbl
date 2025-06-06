@@ -1,0 +1,454 @@
+\begin{thebibliography}{143}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{{Aihara} {et~al.}(2022){Aihara}, {AlSayyad}, {Ando}, {Armstrong}, {Bosch}, {Egami}, {Furusawa}, {Furusawa}, {Harasawa}, {Harikane}, {Hsieh}, {Ikeda}, {Ito}, {Iwata}, {Kodama}, {Koike}, {Kokubo}, {Komiyama}, {Li}, {Liang}, {Lin}, {Lupton}, {Lust}, {MacArthur}, {Mawatari}, {Mineo}, {Miyatake}, {Miyazaki}, {More}, {Morishima}, {Murayama}, {Nakajima}, {Nakata}, {Nishizawa}, {Oguri}, {Okabe}, {Okura}, {Ono}, {Osato}, {Ouchi}, {Pan}, {Plazas Malag{\'o}n}, {Price}, {Reed}, {Rykoff}, {Shibuya}, {Simunovic}, {Strauss}, {Sugimori}, {Suto}, {Suzuki}, {Takada}, {Takagi}, {Takata}, {Takita}, {Tanaka}, {Tang}, {Taranu}, {Terai}, {Toba}, {Turner}, {Uchiyama}, {Vijarnwannaluk}, {Waters}, {Yamada}, {Yamamoto}, \& {Yamashita}}]{Aihara2022}
+{Aihara}, H., {AlSayyad}, Y., {Ando}, M., {et~al.} 2022, \pasj, 74, 247
+
+\bibitem[{{Akins} {et~al.}(2024){Akins}, {Casey}, {Lambrides}, {Allen}, {Andika}, {Brinch}, {Champagne}, {Cooper}, {Ding}, {Drakos}, {Faisst}, {Finkelstein}, {Franco}, {Fujimoto}, {Gentile}, {Gillman}, {Gozaliasl}, {Harish}, {Hayward}, {Hirschmann}, {Ilbert}, {Kartaltepe}, {Kocevski}, {Koekemoer}, {Kokorev}, {Liu}, {Long}, {McCracken}, {McKinney}, {Onoue}, {Paquereau}, {Renzini}, {Rhodes}, {Robertson}, {Shuntov}, {Silverman}, {Tanaka}, {Toft}, {Trakhtenbrot}, {Valentino}, \& {Zavala}}]{Akins2024}
+{Akins}, H.~B., {Casey}, C.~M., {Lambrides}, E., {et~al.} 2024, arXiv e-prints, arXiv:2406.10341
+
+\bibitem[{{Arango-Toro} {et~al.}(2023){Arango-Toro}, {Ciesla}, {Ilbert}, {Magnelli}, {Jim{\'e}nez-Andrade}, \& {Buat}}]{Arango-Toro2023}
+{Arango-Toro}, R.~C., {Ciesla}, L., {Ilbert}, O., {et~al.} 2023, \aap, 675, A126
+
+\bibitem[{{Arango-Toro} {et~al.}(2025){Arango-Toro}, {Ilbert}, {Ciesla}, {Shuntov}, {Aufort}, {Mercier}, {Laigle}, {Franco}, {Bethermin}, {Le Borgne}, {Dubois}, {McCracken}, {Paquereau}, {Huertas-Company}, {Kartaltepe}, {Casey}, {Akins}, {Allen}, {Andika}, {Brinch}, {Drakos}, {Faisst}, {Gozaliasl}, {Harish}, {Kaminsky}, {Koekemoer}, {Kokorev}, {Liu}, {Magdis}, {Martin}, {Moutard}, {Rhodes}, {Rich}, {Robertson}, {Sanders}, {Sheth}, {Talia}, {Toft}, {Tresse}, {Valentino}, {Vijayan}, \& {Weaver}}]{Arango-Toro2024}
+{Arango-Toro}, R.~C., {Ilbert}, O., {Ciesla}, L., {et~al.} 2025, \aap, 696, A159
+
+\bibitem[{{Arnouts} {et~al.}(2013){Arnouts}, {Le Floc'h}, {Chevallard}, {Johnson}, {Ilbert}, {Treyer}, {Aussel}, {Capak}, {Sanders}, {Scoville}, {McCracken}, {Milliard}, {Pozzetti}, \& {Salvato}}]{arnouts_NRK_2013}
+{Arnouts}, S., {Le Floc'h}, E., {Chevallard}, J., {et~al.} 2013, \aap, 558, A67
+
+\bibitem[{Arnouts {et~al.}(2002)Arnouts, Moscardini, Vanzella, Colombi, Cristiani, Fontana, Giallongo, Matarrese, \& Saracco}]{arnouts_measuring_2002}
+Arnouts, S., Moscardini, L., Vanzella, E., {et~al.} 2002, \mnras, 329, 355, arXiv: astro-ph/0109453
+
+\bibitem[{{Bagley} {et~al.}(2024){Bagley}, {Pirzkal}, {Finkelstein}, {Papovich}, {Berg}, {Lotz}, {Leung}, {Ferguson}, {Koekemoer}, {Dickinson}, {Kartaltepe}, {Kocevski}, {Somerville}, {Yung}, {Backhaus}, {Casey}, {Castellano}, {Ch{\'a}vez Ortiz}, {Chworowsky}, {Cox}, {Dav{\'e}}, {Davis}, {Estrada-Carpenter}, {Fontana}, {Fujimoto}, {Gardner}, {Giavalisco}, {Grazian}, {Grogin}, {Hathi}, {Hutchison}, {Jaskot}, {Jung}, {Kewley}, {Kirkpatrick}, {Larson}, {Matharu}, {Natarajan}, {Pentericci}, {P{\'e}rez-Gonz{\'a}lez}, {Ravindranath}, {Rothberg}, {Ryan}, {Shen}, {Simons}, {Snyder}, {Trump}, \& {Wilkins}}]{Bagley2024}
+{Bagley}, M.~B., {Pirzkal}, N., {Finkelstein}, S.~L., {et~al.} 2024, \apjl, 965, L6
+
+\bibitem[{{Barbary}(2016)}]{K.Barbary2016}
+{Barbary}, K. 2016, The Journal of Open Source Software, 1, 58
+
+\bibitem[{{Barro} {et~al.}(2017){Barro}, {Faber}, {Koo}, {Dekel}, {Fang}, {Trump}, {P{\'e}rez-Gonz{\'a}lez}, {Pacifici}, {Primack}, {Somerville}, {Yan}, {Guo}, {Liu}, {Ceverino}, {Kocevski}, \& {McGrath}}]{Barro2017}
+{Barro}, G., {Faber}, S.~M., {Koo}, D.~C., {et~al.} 2017, \apj, 840, 47
+
+\bibitem[{{Barro} {et~al.}(2013){Barro}, {Faber}, {P{\'e}rez-Gonz{\'a}lez}, {Koo}, {Williams}, {Kocevski}, {Trump}, {Mozena}, {McGrath}, {van der Wel}, {Wuyts}, {Bell}, {Croton}, {Ceverino}, {Dekel}, {Ashby}, {Cheung}, {Ferguson}, {Fontana}, {Fang}, {Giavalisco}, {Grogin}, {Guo}, {Hathi}, {Hopkins}, {Huang}, {Koekemoer}, {Kartaltepe}, {Lee}, {Newman}, {P@ARTICLE{Barro2013, author = {{Barro}, Guillermo and {Faber}, S.~M. and {P{\'e}rez-Gonz{\'a}lez}, Pablo G. and {Koo}, David C. and {Williams}, Christina C. and {Kocevski}, Dale D. and {Trump}, Jonathan R. and {Mozena}, Mark and {McGrath}, Elizabeth and {van der Wel}, Arjen and {Wuyts}, Stijn and {Bell}, Eric F. and {Croton}, Darren J. and {Ceverino}, Daniel and {Dekel}, Avishai and {Ashby}, M.~L.~N. and {Cheung}, Edmond and {Ferguson}, Henry C. and {Fontana}, Adriano and {Fang}, Jerome and {Giavalisco}, Mauro and {Grogin}, Norman A. and {Guo}, Yicheng and {Hathi}, Nimish P. and {Hopkins}, Philip F. and {Huang}, Kuang-Han and {Koekemoer}, Anton M. and
+  {Kartaltepe}, Jeyhan S. and {Lee}, Kyoung-Soo and {Newman}, Jeffrey A. and {Porter}, Lauren A. and {Primack}, Joel R. and {Ryan}, Russell E. and {Rosario}, David and {Somerville}, Rachel S. and {Salvato}, Mara and {Hsu}, Li-Ting}, title = "{CANDELS: The Progenitors of Compact Quiescent Galaxies at z \raisebox{-0.5ex}\textasciitilde 2}", journal = {\apj}, keywords = {galaxies: high-redshift, galaxies: photometry, galaxies: starburst, Astrophysics - Cosmology and Nongalactic Astrophysics}, year = 2013, month = mar, volume = {765}, number = {2}, eid = {104}, pages = {104}, doi = {10.1088/0004-637X/765/2/104}, archivePrefix = {arXiv}, eprint = {1206.5000}, primaryClass = {astro-ph.CO}, adsurl = {https://ui.adsabs.harvard.edu/abs/2013ApJ...765..104B}, adsnote = {Provided by the SAO/NASA Astrophysics Data System} }orter}, {Primack}, {Ryan}, {Rosario}, {Somerville}, {Salvato}, \& {Hsu}}]{Barro2013}
+{Barro}, G., {Faber}, S.~M., {P{\'e}rez-Gonz{\'a}lez}, P.~G., {et~al.} 2013, \apj, 765, 104
+
+\bibitem[{{Barrufet} {et~al.}(2023){Barrufet}, {Oesch}, {Weibel}, {Brammer}, {Bezanson}, {Bouwens}, {Fudamoto}, {Gonzalez}, {Gottumukkala}, {Illingworth}, {Heintz}, {Holden}, {Labbe}, {Magee}, {Naidu}, {Nelson}, {Stefanon}, {Smit}, {van Dokkum}, {Weaver}, \& {Williams}}]{Barrufet2023}
+{Barrufet}, L., {Oesch}, P.~A., {Weibel}, A., {et~al.} 2023, \mnras, 522, 449
+
+\bibitem[{{Beckwith} {et~al.}(2006){Beckwith}, {Stiavelli}, {Koekemoer}, {Caldwell}, {Ferguson}, {Hook}, {Lucas}, {Bergeron}, {Corbin}, {Jogee}, {Panagia}, {Robberto}, {Royle}, {Somerville}, \& {Sosey}}]{Beckwith2006}
+{Beckwith}, S. V.~W., {Stiavelli}, M., {Koekemoer}, A.~M., {et~al.} 2006, \aj, 132, 1729
+
+\bibitem[{Berman {et~al.}(2024)Berman, McCleary, Koekemoer, Franco, Drakos, Liu, Nightingale, Shuntov, Scognamiglio, Massey, Mahler, McCracken, Robertson, Faisst, Casey, Kartaltepe, \& Survey}]{berman2024efficient}
+Berman, E.~M., McCleary, J.~E., Koekemoer, A.~M., {et~al.} 2024, The Astronomical Journal, 168, 174
+
+\bibitem[{{Bertin}(2011)}]{Bertin2011}
+{Bertin}, E. 2011, in Astronomical Society of the Pacific Conference Series, Vol. 442, Astronomical Data Analysis Software and Systems XX, ed. I.~N. {Evans}, A.~{Accomazzi}, D.~J. {Mink}, \& A.~H. {Rots}, 435
+
+\bibitem[{Bertin \& Arnouts(1996)}]{bertin_sextractor_1996}
+Bertin, E. \& Arnouts, S. 1996, \aaps, 117, 393
+
+\bibitem[{{Bertin} {et~al.}(2020){Bertin}, {Schefer}, {Apostolakos}, {{\'A}lvarez-Ayll{\'o}n}, {Dubath}, \& {K{\"u}mmel}}]{bertin20}
+{Bertin}, E., {Schefer}, M., {Apostolakos}, N., {et~al.} 2020, in Astronomical Society of the Pacific Conference Series, Vol. 527, Astronomical Data Analysis Software and Systems XXIX, ed. R.~{Pizzo}, E.~R. {Deul}, J.~D. {Mol}, J.~{de Plaa}, \& H.~{Verkouter}, 461
+
+\bibitem[{{B{\'e}thermin} {et~al.}(2012){B{\'e}thermin}, {Daddi}, {Magdis}, {Sargent}, {Hezaveh}, {Elbaz}, {Le Borgne}, {Mullaney}, {Pannella}, {Buat}, {Charmandaris}, {Lagache}, \& {Scott}}]{bethermin_2012}
+{B{\'e}thermin}, M., {Daddi}, E., {Magdis}, G., {et~al.} 2012, \apjl, 757, L23
+
+\bibitem[{{Birrer} {et~al.}(2021){Birrer}, {Shajib}, {Gilman}, {Galan}, {Aalbers}, {Millon}, {Morgan}, {Pagano}, {Park}, {Teodori}, {Tessore}, {Ueland}, {Van de Vyvere}, {Wagner-Carena}, {Wempe}, {Yang}, {Ding}, {Schmidt}, {Sluse}, {Zhang}, \& {Amara}}]{Birrer2021}
+{Birrer}, S., {Shajib}, A., {Gilman}, D., {et~al.} 2021, The Journal of Open Source Software, 6, 3283
+
+\bibitem[{{Boquien} {et~al.}(2019){Boquien}, {Burgarella}, {Roehlly}, {Buat}, {Ciesla}, {Corre}, {Inoue}, \& {Salas}}]{Boquien19}
+{Boquien}, M., {Burgarella}, D., {Roehlly}, Y., {et~al.} 2019, \aap, 622, A103
+
+\bibitem[{{Bordoloi} {et~al.}(2010){Bordoloi}, {Lilly}, \& {Amara}}]{Bordoloi2010}
+{Bordoloi}, R., {Lilly}, S.~J., \& {Amara}, A. 2010, \mnras, 406, 881
+
+\bibitem[{{Boucaud, A.} {et~al.}(2016){Boucaud, A.}, {Bocchio, M.}, {Abergel, A.}, {Orieux, F.}, {Dole, H.}, \& {Hadj-Youcef, M. A.}}]{pypher}
+{Boucaud, A.}, {Bocchio, M.}, {Abergel, A.}, {et~al.} 2016, A\&A, 596, A63
+
+\bibitem[{Bruzual \& Charlot(2003)}]{bruzual_stellar_2003}
+Bruzual, G. \& Charlot, S. 2003, \mnras, 344, 1000
+
+\bibitem[{Bushouse {et~al.}(2023)Bushouse, Eisenhamer, Dencheva, Davies, Greenfield, Morrison, Hodge, Simon, Grumm, Droettboom, Slavich, Sosey, Pauly, Miller, Jedrzejewski, Hack, Davis, Crawford, Law, Gordon, Regan, Cara, MacDonald, Bradley, Shanahan, Jamieson, Teodoro, Williams, \& Pena-Guerrero}]{jwstcalibrationpipeline2023}
+Bushouse, H., Eisenhamer, J., Dencheva, N., {et~al.} 2023, {JWST Calibration Pipeline}
+
+\bibitem[{Calzetti {et~al.}(2000)Calzetti, Armus, Bohlin, Kinney, Koornneef, \& Storchi-Bergmann}]{calzetti_dust_2000}
+Calzetti, D., Armus, L., Bohlin, R.~C., {et~al.} 2000, \apj, 533, 682
+
+\bibitem[{{Casey}(2012)}]{Casey2012}
+{Casey}, C.~M. 2012, \mnras, 425, 3094
+
+\bibitem[{{Casey} {et~al.}(2024){Casey}, {Akins}, {Shuntov}, {Ilbert}, {Paquereau}, {Franco}, {Hayward}, {Finkelstein}, {Boylan-Kolchin}, {Robertson}, {Allen}, {Brinch}, {Cooper}, {Ding}, {Drakos}, {Faisst}, {Fujimoto}, {Gillman}, {Harish}, {Hirschmann}, {Jin}, {Kartaltepe}, {Koekemoer}, {Kokorev}, {Liu}, {Long}, {Magdis}, {Maraston}, {Martin}, {McCracken}, {McKinney}, {Mobasher}, {Rhodes}, {Rich}, {Sanders}, {Silverman}, {Toft}, {Vijayan}, {Weaver}, {Wilkins}, {Yang}, \& {Zavala}}]{Casey2024}
+{Casey}, C.~M., {Akins}, H.~B., {Shuntov}, M., {et~al.} 2024, \apj, 965, 98
+
+\bibitem[{{Casey} {et~al.}(2023){Casey}, {Kartaltepe}, {Drakos}, {Franco}, {Harish}, {Paquereau}, {Ilbert}, {Rose}, {Cox}, {Nightingale}, {Robertson}, {Silverman}, {Koekemoer}, {Massey}, {McCracken}, {Rhodes}, {Akins}, {Allen}, {Amvrosiadis}, {Arango-Toro}, {Bagley}, {Bongiorno}, {Capak}, {Champagne}, {Chartab}, {Ch{\'a}vez Ortiz}, {Chworowsky}, {Cooke}, {Cooper}, {Darvish}, {Ding}, {Faisst}, {Finkelstein}, {Fujimoto}, {Gentile}, {Gillman}, {Gould}, {Gozaliasl}, {Hayward}, {He}, {Hemmati}, {Hirschmann}, {Jahnke}, {Jin}, {Khostovan}, {Kokorev}, {Lambrides}, {Laigle}, {Larson}, {Leung}, {Liu}, {Liaudat}, {Long}, {Magdis}, {Mahler}, {Mainieri}, {Manning}, {Maraston}, {Martin}, {McCleary}, {McKinney}, {McPartland}, {Mobasher}, {Pattnaik}, {Renzini}, {Rich}, {Sanders}, {Sattari}, {Scognamiglio}, {Scoville}, {Sheth}, {Shuntov}, {Sparre}, {Suzuki}, {Talia}, {Toft}, {Trakhtenbrot}, {Urry}, {Valentino}, {Vanderhoof}, {Vardoulaki}, {Weaver}, {Whitaker}, {Wilkins}, {Yang}, \& {Zavala}}]{Casey2023CW}
+{Casey}, C.~M., {Kartaltepe}, J.~S., {Drakos}, N.~E., {et~al.} 2023, \apj, 954, 31
+
+\bibitem[{{Ciesla} {et~al.}(2024{\natexlab{a}}){Ciesla}, {Adscheid}, {Magnelli}, {Boquien}, {Laporte}, {Bethermin}, {Carvajal}, {Schinnerer}, \& {Liu}}]{Ciesla2024b}
+{Ciesla}, L., {Adscheid}, S., {Magnelli}, B., {et~al.} 2024{\natexlab{a}}, arXiv e-prints, arXiv:2412.02557
+
+\bibitem[{{Ciesla} {et~al.}(2024{\natexlab{b}}){Ciesla}, {Elbaz}, {Ilbert}, {Buat}, {Magnelli}, {Narayanan}, {Daddi}, {G{\'o}mez-Guijarro}, \& {Arango-Toro}}]{Ciesla2024a}
+{Ciesla}, L., {Elbaz}, D., {Ilbert}, O., {et~al.} 2024{\natexlab{b}}, \aap, 686, A128
+
+\bibitem[{{Ciesla} {et~al.}(2023){Ciesla}, {G{\'o}mez-Guijarro}, {Buat}, {Elbaz}, {Jin}, {B{\'e}thermin}, {Daddi}, {Franco}, {Inami}, {Magdis}, {Magnelli}, \& {Xiao}}]{Ciesla2023}
+{Ciesla}, L., {G{\'o}mez-Guijarro}, C., {Buat}, V., {et~al.} 2023, \aap, 672, A191
+
+\bibitem[{Conselice(2014)}]{Conselice_2014}
+Conselice, C.~J. 2014, \araa, 52, 291–337
+
+\bibitem[{{Coupon} {et~al.}(2018){Coupon}, {Czakon}, {Bosch}, {Komiyama}, {Medezinski}, {Miyazaki}, \& {Oguri}}]{Coupon_HSC_Masks_2018}
+{Coupon}, J., {Czakon}, N., {Bosch}, J., {et~al.} 2018, \pasj, 70, S7
+
+\bibitem[{{Daddi} {et~al.}(2004){Daddi}, {Cimatti}, {Renzini}, {Fontana}, {Mignoli}, {Pozzetti}, {Tozzi}, \& {Zamorani}}]{Daddi_BzK_2004}
+{Daddi}, E., {Cimatti}, A., {Renzini}, A., {et~al.} 2004, \apj, 617, 746
+
+\bibitem[{{Daddi} {et~al.}(2005){Daddi}, {Renzini}, {Pirzkal}, {Cimatti}, {Malhotra}, {Stiavelli}, {Xu}, {Pasquali}, {Rhoads}, {Brusa}, {di Serego Alighieri}, {Ferguson}, {Koekemoer}, {Moustakas}, {Panagia}, \& {Windhorst}}]{Daddi2005}
+{Daddi}, E., {Renzini}, A., {Pirzkal}, N., {et~al.} 2005, \apj, 626, 680
+
+\bibitem[{{Dalton} {et~al.}(2006){Dalton}, {Caldwell}, {Ward}, {Whalley}, {Woodhouse}, {Edeson}, {Clark}, {Beard}, {Gallie}, {Todd}, {Strachan}, {Bezawada}, {Sutherland}, \& {Emerson}}]{2006SPIE.6269E..0XD}
+{Dalton}, G.~B., {Caldwell}, M., {Ward}, A.~K., {et~al.} 2006, in Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series, Vol. 6269, Ground-based and Airborne Instrumentation for Astronomy, ed. I.~S. {McLean} \& M.~{Iye}, 62690X
+
+\bibitem[{Davidzon {et~al.}(2017)Davidzon, Ilbert, Laigle, Coupon, McCracken, Delvecchio, Masters, Capak, Hsieh, Tresse, Fevre, Bethermin, Chang, Faisst, Floc'h, Steinhardt, Toft, Aussel, Dubois, Hasinger, Salvato, Sanders, Scoville, \& Silverman}]{davidzon_cosmos2015_2017}
+Davidzon, I., Ilbert, O., Laigle, C., {et~al.} 2017, \aap, 605, A70, arXiv: 1701.02734
+
+\bibitem[{{Ding} {et~al.}(2020){Ding}, {Silverman}, {Treu}, {Schulze}, {Schramm}, {Birrer}, {Park}, {Jahnke}, {Bennert}, {Kartaltepe}, {Koekemoer}, {Malkan}, \& {Sanders}}]{Ding2020}
+{Ding}, X., {Silverman}, J., {Treu}, T., {et~al.} 2020, \apj, 888, 37
+
+\bibitem[{{Drlica-Wagner} {et~al.}(2018){Drlica-Wagner}, {Sevilla-Noarbe}, {Rykoff}, {Gruendl}, {Yanny}, {Tucker}, {Hoyle}, {Carnero Rosell}, {Bernstein}, {Bechtol}, {Becker}, {Benoit-L{\'e}vy}, {Bertin}, {Carrasco Kind}, {Davis}, {de Vicente}, {Diehl}, {Gruen}, {Hartley}, {Leistedt}, {Li}, {Marshall}, {Neilsen}, {Rau}, {Sheldon}, {Smith}, {Troxel}, {Wyatt}, {Zhang}, {Abbott}, {Abdalla}, {Allam}, {Banerji}, {Brooks}, {Buckley-Geer}, {Burke}, {Capozzi}, {Carretero}, {Cunha}, {D'Andrea}, {da Costa}, {DePoy}, {Desai}, {Dietrich}, {Doel}, {Evrard}, {Fausti Neto}, {Flaugher}, {Fosalba}, {Frieman}, {Garc{\'\i}a-Bellido}, {Gerdes}, {Giannantonio}, {Gschwend}, {Gutierrez}, {Honscheid}, {James}, {Jeltema}, {Kuehn}, {Kuhlmann}, {Kuropatkin}, {Lahav}, {Lima}, {Lin}, {Maia}, {Martini}, {McMahon}, {Melchior}, {Menanteau}, {Miquel}, {Nichol}, {Ogando}, {Plazas}, {Romer}, {Roodman}, {Sanchez}, {Scarpine}, {Schindler}, {Schubnell}, {Smith}, {Smith}, {Soares-Santos}, {Sobreira}, {Suchyta}, {Tarle}, {Vikram}, {Walker},
+  {Wechsler}, {Zuntz}, \& {DES Collaboration}}]{Drlica-Wagner2018}
+{Drlica-Wagner}, A., {Sevilla-Noarbe}, I., {Rykoff}, E.~S., {et~al.} 2018, \apjs, 235, 33
+
+\bibitem[{{Duan} {et~al.}(2024){Duan}, {Conselice}, {Li}, {Harvey}, {Austin}, {Ormerod}, {Trussler}, \& {Adams}}]{Duan2024}
+{Duan}, Q., {Conselice}, C.~J., {Li}, Q., {et~al.} 2024, \mnras, 529, 4728
+
+\bibitem[{{Dubois} {et~al.}(2014){Dubois}, {Pichon}, {Welker}, {Le Borgne}, {Devriendt}, {Laigle}, {Codis}, {Pogosyan}, {Arnouts}, {Benabed}, {Bertin}, {Blaizot}, {Bouchet}, {Cardoso}, {Colombi}, {de Lapparent}, {Desjacques}, {Gavazzi}, {Kassin}, {Kimm}, {McCracken}, {Milliard}, {Peirani}, {Prunet}, {Rouberol}, {Silk}, {Slyz}, {Sousbie}, {Teyssier}, {Tresse}, {Treyer}, {Vibert}, \& {Volonteri}}]{Dubois2014}
+{Dubois}, Y., {Pichon}, C., {Welker}, C., {et~al.} 2014, \mnras, 444, 1453
+
+\bibitem[{{Dunlop} {et~al.}(2021){Dunlop}, {Abraham}, {Ashby}, {Bagley}, {Best}, {Bongiorno}, {Bouwens}, {Bowler}, {Brammer}, {Bremer}, {Calabro'}, {Carnall}, {Castellano}, {Cirasuolo}, {Conselice}, {Cullen}, {Dave}, {Dayal}, {Dekel}, {Dickinson}, {Duncan}, {Elbaz}, {Ellis}, {Ferguson}, {Ferrara}, {Finkelstein}, {Fontana}, {Furlanetto}, {Fynbo}, {Gallerani}, {Gardner}, {Giavalisco}, {Grazian}, {Grogin}, {Harikane}, {Hopkins}, {Ilbert}, {Illingworth}, {Juneau}, {Jung}, {Kartaltepe}, {Kassin}, {Kauffmann}, {Khochfar}, {Kirkpatrick}, {Kocevski}, {Koekemoer}, {Labbe}, {Laporte}, {Larson}, {Lucas}, {Magee}, {Mason}, {McCracken}, {McLeod}, {McLure}, {Merlin}, {Mesinger}, {Milvang-Jensen}, {Newman}, {Oesch}, {Ouchi}, {Pacifici}, {Papovich}, {Peacock}, {Peeples}, {Pentericci}, {Perez-Gonzalez}, {Pirzkal}, {Pope}, {Pye}, {Reddy}, {Robertson}, {Salvato}, {Santini}, {Schaerer}, {Shapley}, {Simons}, {Smit}, {Smith}, {Snyder}, {Somerville}, {Stanway}, {Stefanon}, {Tasca}, {Tikkanen}, {Tresse}, {Trump}, {Whitaker},
+  {Wilkins}, {Wright}, {Wyithe}, {van Dokkum}, \& {van der Werf}}]{PrimerDunlop2021}
+{Dunlop}, J.~S., {Abraham}, R.~G., {Ashby}, M. L.~N., {et~al.} 2021, {PRIMER: Public Release IMaging for Extragalactic Research}, JWST Proposal. Cycle 1, ID. \#1837
+
+\bibitem[{{Ellis} {et~al.}(2013){Ellis}, {McLure}, {Dunlop}, {Robertson}, {Ono}, {Schenker}, {Koekemoer}, {Bowler}, {Ouchi}, {Rogers}, {Curtis-Lake}, {Schneider}, {Charlot}, {Stark}, {Furlanetto}, \& {Cirasuolo}}]{Ellis2013}
+{Ellis}, R.~S., {McLure}, R.~J., {Dunlop}, J.~S., {et~al.} 2013, \apjl, 763, L7
+
+\bibitem[{{Euclid Collaboration} {et~al.}(2023{\natexlab{a}}){Euclid Collaboration}, {Bretonni{\`e}re}, {Kuchner}, {Huertas-Company}, {Merlin}, {Castellano}, {Tuccillo}, {Buitrago}, {Conselice}, {Boucaud}, {H{\"a}u{\ss}ler}, {K{\"u}mmel}, {Hartley}, {Alvarez Ayllon}, {Bertin}, {Ferrari}, {Ferreira}, {Gavazzi}, {Hern{\'a}ndez-Lang}, {Lucatelli}, {Robotham}, {Schefer}, {Wang}, {Cabanac}, {Dom{\'\i}nguez S{\'a}nchez}, {Duc}, {Fotopoulou}, {Kruk}, {La Marca}, {Margalef-Bentabol}, {Marleau}, {Tortora}, {Aghanim}, {Amara}, {Auricchio}, {Azzollini}, {Baldi}, {Bender}, {Bodendorf}, {Branchini}, {Brescia}, {Brinchmann}, {Camera}, {Capobianco}, {Carbone}, {Carretero}, {Castander}, {Cavuoti}, {Cimatti}, {Cledassou}, {Congedo}, {Conversi}, {Copin}, {Corcione}, {Courbin}, {Cropper}, {Da Silva}, {Degaudenzi}, {Dinis}, {Dubath}, {Duncan}, {Dupac}, {Dusini}, {Farrens}, {Ferriol}, {Frailis}, {Franceschi}, {Fumana}, {Galeotta}, {Garilli}, {Gillis}, {Giocoli}, {Grazian}, {Grupp}, {Haugan}, {Hoekstra}, {Holmes}, {Hormuth},
+  {Hornstrup}, {Hudelot}, {Jahnke}, {Kermiche}, {Kiessling}, {Kohley}, {Kunz}, {Kurki-Suonio}, {Ligori}, {Lilje}, {Lloro}, {Mansutti}, {Marggraf}, {Markovic}, {Marulli}, {Massey}, {McCracken}, {Medinaceli}, {Melchior}, {Meneghetti}, {Meylan}, {Moresco}, {Moscardini}, {Munari}, {Niemi}, {Padilla}, {Paltani}, {Pasian}, {Pedersen}, {Percival}, {Pettorino}, {Polenta}, {Poncet}, {Pozzetti}, {Raison}, {Rebolo}, {Renzi}, {Rhodes}, {Riccio}, {Romelli}, {Rosset}, {Rossetti}, {Saglia}, {Sapone}, {Sartoris}, {Schneider}, {Secroun}, {Seidel}, {Sirignano}, {Sirri}, {Skottfelt}, {Starck}, {Tallada-Cresp{\'\i}}, {Taylor}, {Tereno}, {Toledo-Moreo}, {Tutusaus}, {Valentijn}, {Valenziano}, {Vassallo}, {Wang}, {Weller}, {Zamorani}, {Zoubian}, {Andreon}, {Bardelli}, {Colodro-Conde}, {Di Ferdinando}, {Graci{\'a}-Carpio}, {Lindholm}, {Mauri}, {Mei}, {Scottez}, {Zucca}, {Baccigalupi}, {Ballardini}, {Bernardeau}, {Biviano}, {Borgani}, {Borlaff}, {Burigana}, {Cappi}, {Carvalho}, {Casas}, {Castignani}, {Cooray}, {Coupon}, {Courtois},
+  {Davini}, {De Lucia}, {Desprez}, {Escartin}, {Escoffier}, {Fabricius}, {Farina}, {Fontana}, {Ganga}, {Garcia-Bellido}, {George}, {Gozaliasl}, {Hildebrandt}, {Hook}, {Ilbert}, {Ili{\'c}}, {Joachimi}, {Kansal}, {Keihanen}, {Kirkpatrick}, {Loureiro}, {Macias-Perez}, {Magliocchetti}, {Maoli}, {Marcin}, {Martinelli}, {Martinet}, {Maturi}, {Monaco}, {Morgante}, {Nadathur}, {Nucita}, {Patrizii}, \& {Popa}}]{HubertEMC2022}
+{Euclid Collaboration}, {Bretonni{\`e}re}, H., {Kuchner}, U., {et~al.} 2023{\natexlab{a}}, \aap, 671, A102
+
+\bibitem[{{Euclid Collaboration} {et~al.}(2025){Euclid Collaboration}, {McPartland}, {Zalesky}, {Weaver}, {Toft}, {Sanders}, {Mobasher}, {Suzuki}, {Szapudi}, {Valdes}, {Murphree}, {Chartab}, {Allen}, {Taamoli}, {Eisenhardt}, {Arnouts}, {Atek}, {Brinchmann}, {Castellano}, {Chary}, {Ch{\'a}vez Ortiz}, {Cuby}, {Finkelstein}, {Goto}, {Gwyn}, {Harikane}, {Inoue}, {McCracken}, {Mohr}, {Oesch}, {Ouchi}, {Oguri}, {Rhodes}, {Rottgering}, {Sawicki}, {Scaramella}, {Scarlata}, {Silverman}, {Stern}, {Teplitz}, {Shuntov}, {Altieri}, {Amara}, {Andreon}, {Auricchio}, {Aussel}, {Baccigalupi}, {Baldi}, {Bardelli}, {Bender}, {Bonino}, {Branchini}, {Brescia}, {Camera}, {Capobianco}, {Carbone}, {Carretero}, {Casas}, {Castander}, {Castignani}, {Cavuoti}, {Cimatti}, {Colodro-Conde}, {Congedo}, {Conselice}, {Conversi}, {Copin}, {Courbin}, {Courtois}, {Da Silva}, {Degaudenzi}, {De Lucia}, {Di Giorgio}, {Dinis}, {Douspis}, {Dubath}, {Dupac}, {Dusini}, {Fabricius}, {Farina}, {Farrens}, {Ferriol}, {Fotopoulou}, {Frailis}, {Franceschi},
+  {Fumana}, {Galeotta}, {Garilli}, {George}, {Gillis}, {Giocoli}, {Grazian}, {Grupp}, {Guzzo}, {Hoekstra}, {Holmes}, {Hook}, {Hormuth}, {Hornstrup}, {Hudelot}, {Jahnke}, {Keih{\"a}nen}, {Kermiche}, {Kiessling}, {Kilbinger}, {Kitching}, {Kubik}, {Kunz}, {Kurki-Suonio}, {Lilje}, {Lindholm}, {Lloro}, {Mainetti}, {Maiorano}, {Mansutti}, {Marggraf}, {Markovic}, {Martinelli}, {Martinet}, {Marulli}, {Massey}, {Maurogordato}, {Medinaceli}, {Mei}, {Melchior}, {Mellier}, {Meneghetti}, {Merlin}, {Meylan}, {Moresco}, {Moscardini}, {Munari}, {Nakajima}, {Neissner}, {Niemi}, {Nightingale}, {Padilla}, {Paltani}, {Pasian}, {Pedersen}, {Percival}, {Pettorino}, {Polenta}, {Poncet}, {Popa}, {Pozzetti}, {Raison}, {Rebolo}, {Renzi}, {Riccio}, {Romelli}, {Roncarelli}, {Rossetti}, {Saglia}, {Sakr}, {S{\'a}nchez}, {Sapone}, {Sartoris}, {Schirmer}, {Schneider}, {Schrabback}, {Secroun}, {Seidel}, {Serrano}, {Sirignano}, {Sirri}, {Stanco}, {Steinwagner}, {Surace}, {Tallada-Crespi}, {Tavagnacco}, {Tereno}, {Toledo-Moreo}, {Torradeflot},
+  {Tutusaus}, {Valentijn}, {Valenziano}, {Vassallo}, {Veropalumbo}, {Wang}, {Weller}, {Zamorani}, {Zoubian}, {Zucca}, {Biviano}, {Bolzonella}, {Boucaud}, {Bozzo}, {Burigana}, {Di Ferdinando}, {Farinelli}, {Gracia-Carpio}, {Mauri}, {Scottez}, {Tenti}, {Viel}, {Wiesmann}, {Akrami}, {Allevato}, \& {Anselmi}}]{McPartland2025}
+{Euclid Collaboration}, {McPartland}, C.~J.~R., {Zalesky}, L., {et~al.} 2025, \aap, 695, A259
+
+\bibitem[{{Euclid Collaboration} {et~al.}(2024){Euclid Collaboration}, {Mellier}, {Abdurro'uf}, {Acevedo Barroso}, {Ach{\'u}carro}, {Adamek}, {Adam}, {Addison}, {Aghanim}, {Aguena}, {Ajani}, {Akrami}, {Al-Bahlawan}, {Alavi}, {Albuquerque}, {Alestas}, {Alguero}, {Allaoui}, {Allen}, {Allevato}, {Alonso-Tetilla}, {Altieri}, {Alvarez-Candal}, {Alvi}, {Amara}, {Amendola}, {Amiaux}, {Andika}, {Andreon}, {Andrews}, {Angora}, {Angulo}, {Annibali}, {Anselmi}, {Anselmi}, {Arcari}, {Archidiacono}, {Aric{\`o}}, {Arnaud}, {Arnouts}, {Asgari}, {Asorey}, {Atayde}, {Atek}, {Atrio-Barandela}, {Aubert}, {Aubourg}, {Auphan}, {Auricchio}, {Aussel}, {Aussel}, {Avelino}, {Avgoustidis}, {Avila}, {Awan}, {Azzollini}, {Baccigalupi}, {Bachelet}, {Bacon}, {Baes}, {Bagley}, {Bahr-Kalus}, {Balaguera-Antolinez}, {Balbinot}, {Balcells}, {Baldi}, {Baldry}, {Balestra}, {Ballardini}, {Ballester}, {Balogh}, {Ba{\~n}ados}, {Barbier}, {Bardelli}, {Baron}, {Barreiro}, {Barrena}, {Barriere}, {Barros}, {Barthelemy}, {Bartolo}, {Basset},
+  {Battaglia}, {Battisti}, {Baugh}, {Baumont}, {Bazzanini}, {Beaulieu}, {Beckmann}, {Belikov}, {Bel}, {Bellagamba}, {Bella}, {Bellini}, {Benabed}, {Bender}, {Benevento}, {Bennett}, {Benson}, {Bergamini}, {Bermejo-Climent}, {Bernardeau}, {Bertacca}, {Berthe}, {Berthier}, {Bethermin}, {Beutler}, {Bevillon}, {Bhargava}, {Bhatawdekar}, {Bianchi}, {Bisigello}, {Biviano}, {Blake}, {Blanchard}, {Blazek}, {Blot}, {Bosco}, {Bodendorf}, {Boenke}, {B{\"o}hringer}, {Boldrini}, {Bolzonella}, {Bonchi}, {Bonici}, {Bonino}, {Bonino}, {Bonvin}, {Bon}, {Booth}, {Borgani}, {Borlaff}, {Borsato}, {Bosco}, {Bose}, {Botticella}, {Boucaud}, {Bouche}, {Boucher}, {Boutigny}, {Bouvard}, {Bouwens}, {Bouy}, {Bowler}, {Bozza}, {Bozzo}, {Branchini}, {Brando}, {Brau-Nogue}, {Brekke}, {Bremer}, {Brescia}, {Breton}, {Brinchmann}, {Brinckmann}, {Brockley-Blatt}, {Brodwin}, {Brouard}, {Brown}, {Bruton}, {Bucko}, {Buddelmeijer}, {Buenadicha}, {Buitrago}, {Burger}, {Burigana}, {Busillo}, {Busonero}, {Cabanac}, {Cabayol-Garcia}, {Cagliari},
+  {Caillat}, {Caillat}, {Calabrese}, {Calabro}, {Calderone}, {Calura}, {Camacho Quevedo}, {Camera}, {Campos}, {Canas-Herrera}, {Candini}, {Cantiello}, {Capobianco}, {Cappellaro}, {Cappelluti}, {Cappi}, {Caputi}, {Cara}, {Carbone}, {Cardone}, {Carella}, {Carlberg}, {Carle}, {Carminati}, {Caro}, {Carrasco}, {Carretero}, {Carrilho}, \& {Carron Duque}}]{EuclidMellier2024}
+{Euclid Collaboration}, {Mellier}, Y., {Abdurro'uf}, {et~al.} 2024, arXiv e-prints, arXiv:2405.13491
+
+\bibitem[{{Euclid Collaboration} {et~al.}(2023{\natexlab{b}}){Euclid Collaboration}, {Merlin}, {Castellano}, {Bretonni{\`e}re}, {Huertas-Company}, {Kuchner}, {Tuccillo}, {Buitrago}, {Peterson}, {Conselice}, {Caro}, {Dimauro}, {Nemani}, {Fontana}, {K{\"u}mmel}, {H{\"a}u{\ss}ler}, {Hartley}, {Alvarez Ayllon}, {Bertin}, {Dubath}, {Ferrari}, {Ferreira}, {Gavazzi}, {Hern{\'a}ndez-Lang}, {Lucatelli}, {Robotham}, {Schefer}, {Tortora}, {Aghanim}, {Amara}, {Amendola}, {Auricchio}, {Baldi}, {Bender}, {Bodendorf}, {Branchini}, {Brescia}, {Camera}, {Capobianco}, {Carbone}, {Carretero}, {Castander}, {Cavuoti}, {Cimatti}, {Cledassou}, {Congedo}, {Conversi}, {Copin}, {Corcione}, {Courbin}, {Cropper}, {Da Silva}, {Degaudenzi}, {Dinis}, {Douspis}, {Dubath}, {Duncan}, {Dupac}, {Dusini}, {Farrens}, {Ferriol}, {Frailis}, {Franceschi}, {Franzetti}, {Galeotta}, {Garilli}, {Gillis}, {Giocoli}, {Grazian}, {Grupp}, {Haugan}, {Hoekstra}, {Holmes}, {Hormuth}, {Hornstrup}, {Hudelot}, {Jahnke}, {Kermiche}, {Kiessling}, {Kitching},
+  {Kohley}, {Kunz}, {Kurki-Suonio}, {Ligori}, {Lilje}, {Lloro}, {Mansutti}, {Marggraf}, {Markovic}, {Marulli}, {Massey}, {McCracken}, {Medinaceli}, {Melchior}, {Meneghetti}, {Meylan}, {Moresco}, {Moscardini}, {Munari}, {Niemi}, {Padilla}, {Paltani}, {Pasian}, {Pedersen}, {Percival}, {Polenta}, {Poncet}, {Popa}, {Pozzetti}, {Raison}, {Rebolo}, {Renzi}, {Rhodes}, {Riccio}, {Romelli}, {Rossetti}, {Saglia}, {Sapone}, {Sartoris}, {Schneider}, {Secroun}, {Seidel}, {Sirignano}, {Sirri}, {Skottfelt}, {Starck}, {Tallada-Cresp{\'\i}}, {Taylor}, {Tereno}, {Toledo-Moreo}, {Tutusaus}, {Valenziano}, {Vassallo}, {Wang}, {Weller}, {Zacchei}, {Zamorani}, {Zoubian}, {Andreon}, {Bardelli}, {Boucaud}, {Colodro-Conde}, {Di Ferdinando}, {Graci{\'a}-Carpio}, {Lindholm}, {Mauri}, {Mei}, {Neissner}, {Scottez}, {Tramacere}, {Zucca}, {Baccigalupi}, {Balaguera-Antol{\'\i}nez}, {Ballardini}, {Bernardeau}, {Biviano}, {Borgani}, {Borlaff}, {Burigana}, {Cabanac}, {Cappi}, {Carvalho}, {Casas}, {Castignani}, {Cooray}, {Coupon}, {Courtois},
+  {Cucciati}, {Davini}, {De Lucia}, {Desprez}, {Escartin}, {Escoffier}, {Farina}, {Ganga}, {Garcia-Bellido}, {George}, {Gozaliasl}, {Hildebrandt}, {Hook}, {Ilbert}, {Ili{\'c}}, {Joachimi}, {Kansal}, {Keihanen}, {Kirkpatrick}, {Loureiro}, {Macias-Perez}, {Magliocchetti}, {Mainetti}, {Maoli}, {Marcin}, {Martinelli}, {Martinet}, {Matthew}, {Maturi}, {Metcalf}, {Monaco}, {Morgante}, \& {Nadathur}}]{MerlinEMC2022}
+{Euclid Collaboration}, {Merlin}, E., {Castellano}, M., {et~al.} 2023{\natexlab{b}}, \aap, 671, A101
+
+\bibitem[{{Finkelstein} {et~al.}(2024){Finkelstein}, {Leung}, {Bagley}, {Dickinson}, {Ferguson}, {Papovich}, {Akins}, {Arrabal Haro}, {Dav{\'e}}, {Dekel}, {Kartaltepe}, {Kocevski}, {Koekemoer}, {Pirzkal}, {Somerville}, {Yung}, {Amor{\'\i}n}, {Backhaus}, {Behroozi}, {Bisigello}, {Bromm}, {Casey}, {Ch{\'a}vez Ortiz}, {Cheng}, {Chworowsky}, {Cleri}, {Cooper}, {Davis}, {de la Vega}, {Elbaz}, {Franco}, {Fontana}, {Fujimoto}, {Giavalisco}, {Grogin}, {Holwerda}, {Huertas-Company}, {Hirschmann}, {Iyer}, {Jogee}, {Jung}, {Larson}, {Lucas}, {Mobasher}, {Morales}, {Morley}, {Mukherjee}, {P{\'e}rez-Gonz{\'a}lez}, {Ravindranath}, {Rodighiero}, {Rowland}, {Tacchella}, {Taylor}, {Trump}, \& {Wilkins}}]{Finkelstein2024}
+{Finkelstein}, S.~L., {Leung}, G. C.~K., {Bagley}, M.~B., {et~al.} 2024, \apjl, 969, L2
+
+\bibitem[{{Franco} {et~al.}(2024){Franco}, {Akins}, {Casey}, {Finkelstein}, {Shuntov}, {Chworowsky}, {Faisst}, {Fujimoto}, {Ilbert}, {Koekemoer}, {Liu}, {Lovell}, {Maraston}, {McCracken}, {McKinney}, {Robertson}, {Bagley}, {Champagne}, {Cooper}, {Ding}, {Drakos}, {Enia}, {Gillman}, {Gozaliasl}, {Harish}, {Hayward}, {Hirschmann}, {Jin}, {Kartaltepe}, {Kokorev}, {Laigle}, {Long}, {Magdis}, {Mahler}, {Martin}, {Massey}, {Mobasher}, {Paquereau}, {Renzini}, {Rhodes}, {Rich}, {Sheth}, {Silverman}, {Sparre}, {Talia}, {Trakhtenbrot}, {Valentino}, {Vijayan}, {Wilkins}, {Yang}, \& {Zavala}}]{Franco2024}
+{Franco}, M., {Akins}, H.~B., {Casey}, C.~M., {et~al.} 2024, \apj, 973, 23
+
+\bibitem[{{Gaia Collaboration} {et~al.}(2023){Gaia Collaboration}, {Vallenari}, {Brown}, {Prusti}, {de Bruijne}, {Arenou}, {Babusiaux}, {Biermann}, {Creevey}, {Ducourant}, {Evans}, {Eyer}, {Guerra}, {Hutton}, {Jordi}, {Klioner}, {Lammers}, {Lindegren}, {Luri}, {Mignard}, {Panem}, {Pourbaix}, {Randich}, {Sartoretti}, {Soubiran}, {Tanga}, {Walton}, {Bailer-Jones}, {Bastian}, {Drimmel}, {Jansen}, {Katz}, {Lattanzi}, {van Leeuwen}, {Bakker}, {Cacciari}, {Casta{\~n}eda}, {De Angeli}, {Fabricius}, {Fouesneau}, {Fr{\'e}mat}, {Galluccio}, {Guerrier}, {Heiter}, {Masana}, {Messineo}, {Mowlavi}, {Nicolas}, {Nienartowicz}, {Pailler}, {Panuzzo}, {Riclet}, {Roux}, {Seabroke}, {Sordo}, {Th{\'e}venin}, {Gracia-Abril}, {Portell}, {Teyssier}, {Altmann}, {Andrae}, {Audard}, {Bellas-Velidis}, {Benson}, {Berthier}, {Blomme}, {Burgess}, {Busonero}, {Busso}, {C{\'a}novas}, {Carry}, {Cellino}, {Cheek}, {Clementini}, {Damerdji}, {Davidson}, {de Teodoro}, {Nu{\~n}ez Campos}, {Delchambre}, {Dell'Oro}, {Esquej},
+  {Fern{\'a}ndez-Hern{\'a}ndez}, {Fraile}, {Garabato}, {Garc{\'\i}a-Lario}, {Gosset}, {Haigron}, {Halbwachs}, {Hambly}, {Harrison}, {Hern{\'a}ndez}, {Hestroffer}, {Hodgkin}, {Holl}, {Jan{\ss}en}, {Jevardat de Fombelle}, {Jordan}, {Krone-Martins}, {Lanzafame}, {L{\"o}ffler}, {Marchal}, {Marrese}, {Moitinho}, {Muinonen}, {Osborne}, {Pancino}, {Pauwels}, {Recio-Blanco}, {Reyl{\'e}}, {Riello}, {Rimoldini}, {Roegiers}, {Rybizki}, {Sarro}, {Siopis}, {Smith}, {Sozzetti}, {Utrilla}, {van Leeuwen}, {Abbas}, {{\'A}brah{\'a}m}, {Abreu Aramburu}, {Aerts}, {Aguado}, {Ajaj}, {Aldea-Montero}, {Altavilla}, {{\'A}lvarez}, {Alves}, {Anders}, {Anderson}, {Anglada Varela}, {Antoja}, {Baines}, {Baker}, {Balaguer-N{\'u}{\~n}ez}, {Balbinot}, {Balog}, {Barache}, {Barbato}, {Barros}, {Barstow}, {Bartolom{\'e}}, {Bassilana}, {Bauchet}, {Becciani}, {Bellazzini}, {Berihuete}, {Bernet}, {Bertone}, {Bianchi}, {Binnenfeld}, {Blanco-Cuaresma}, {Blazere}, {Boch}, {Bombrun}, {Bossini}, {Bouquillon}, {Bragaglia}, {Bramante}, {Breedt},
+  {Bressan}, {Brouillet}, {Brugaletta}, {Bucciarelli}, {Burlacu}, {Butkevich}, {Buzzi}, {Caffau}, {Cancelliere}, {Cantat-Gaudin}, {Carballo}, {Carlucci}, {Carnerero}, {Carrasco}, {Casamiquela}, {Castellani}, {Castro-Ginard}, {Chaoul}, {Charlot}, {Chemin}, {Chiaramida}, {Chiavassa}, {Chornay}, {Comoretto}, {Contursi}, {Cooper}, {Cornez}, {Cowell}, {Crifo}, {Cropper}, {Crosta}, {Crowley}, {Dafonte}, {Dapergolas}, {David}, {David}, {de Laverny}, {De Luise}, {De March}, {De Ridder}, {de Souza}, {de Torres}, {del Peloso}, {del Pozo}, {Delbo}, {Delgado}, {Delisle}, {Demouchy}, {Dharmawardena}, {Di Matteo}, {Diakite}, {Diener}, {Distefano}, {Dolding}, {Edvardsson}, {Enke}, {Fabre}, {Fabrizio}, {Faigler}, {Fedorets}, {Fernique}, {Fienga}, {Figueras}, {Fournier}, {Fouron}, {Fragkoudi}, {Gai}, {Garcia-Gutierrez}, {Garcia-Reinaldos}, {Garc{\'\i}a-Torres}, {Garofalo}, {Gavel}, {Gavras}, {Gerlach}, {Geyer}, {Giacobbe}, {Gilmore}, {Girona}, {Giuffrida}, {Gomel}, {Gomez}, {Gonz{\'a}lez-N{\'u}{\~n}ez},
+  {Gonz{\'a}lez-Santamar{\'\i}a}, {Gonz{\'a}lez-Vidal}, {Granvik}, {Guillout}, {Guiraud}, {Guti{\'e}rrez-S{\'a}nchez}, {Guy}, {Hatzidimitriou}, {Hauser}, {Haywood}, {Helmer}, {Helmi}, {Sarmiento}, {Hidalgo}, {Hilger}, {H{\l}adczuk}, {Hobbs}, {Holland}, {Huckle}, {Jardine}, {Jasniewicz}, {Jean-Antoine Piccolo}, {Jim{\'e}nez-Arranz}, {Jorissen}, {Juaristi Campillo}, {Julbe}, {Karbevska}, {Kervella}, {Khanna}, {Kontizas}, {Kordopatis}, {Korn}, {K{\'o}sp{\'a}l}, {Kostrzewa-Rutkowska}, {Kruszy{\'n}ska}, {Kun}, {Laizeau}, {Lambert}, {Lanza}, {Lasne}, {Le Campion}, {Lebreton}, {Lebzelter}, {Leccia}, {Leclerc}, {Lecoeur-Taibi}, {Liao}, {Licata}, {Lindstr{\o}m}, {Lister}, {Livanou}, {Lobel}, {Lorca}, {Loup}, {Madrero Pardo}, {Magdaleno Romeo}, {Managau}, {Mann}, {Manteiga}, {Marchant}, {Marconi}, {Marcos}, {Marcos Santos}, {Mar{\'\i}n Pina}, {Marinoni}, {Marocco}, {Marshall}, {Martin Polo}, {Mart{\'\i}n-Fleitas}, {Marton}, {Mary}, {Masip}, {Massari}, {Mastrobuono-Battisti}, {Mazeh}, {McMillan}, {Messina}, {Michalik},
+  {Millar}, {Mints}, {Molina}, {Molinaro}, {Moln{\'a}r}, {Monari}, {Mongui{\'o}}, {Montegriffo}, {Montero}, {Mor}, {Mora}, {Morbidelli}, {Morel}, {Morris}, {Muraveva}, {Murphy}, {Musella}, {Nagy}, {Noval}, {Oca{\~n}a}, {Ogden}, {Ordenovic}, {Osinde}, {Pagani}, {Pagano}, {Palaversa}, {Palicio}, {Pallas-Quintela}, {Panahi}, {Payne-Wardenaar}, {Pe{\~n}alosa Esteller}, {Penttil{\"a}}, {Pichon}, {Piersimoni}, {Pineau}, {Plachy}, {Plum}, {Poggio}, {Pr{\v{s}}a}, {Pulone}, {Racero}, {Ragaini}, {Rainer}, {Raiteri}, {Rambaux}, {Ramos}, {Ramos-Lerate}, {Re Fiorentin}, {Regibo}, {Richards}, {Rios Diaz}, {Ripepi}, {Riva}, {Rix}, {Rixon}, {Robichon}, {Robin}, {Robin}, {Roelens}, {Rogues}, {Rohrbasser}, {Romero-G{\'o}mez}, {Rowell}, {Royer}, {Ruz Mieres}, {Rybicki}, {Sadowski}, {S{\'a}ez N{\'u}{\~n}ez}, {Sagrist{\`a} Sell{\'e}s}, {Sahlmann}, {Salguero}, {Samaras}, {Sanchez Gimenez}, {Sanna}, {Santove{\~n}a}, {Sarasso}, {Schultheis}, {Sciacca}, {Segol}, {Segovia}, {S{\'e}gransan}, {Semeux}, {Shahaf}, {Siddiqui}, {Siebert},
+  {Siltala}, {Silvelo}, {Slezak}, {Slezak}, {Smart}, {Snaith}, {Solano}, {Solitro}, {Souami}, {Souchay}, {Spagna}, {Spina}, {Spoto}, {Steele}, {Steidelm{\"u}ller}, {Stephenson}, {S{\"u}veges}, {Surdej}, {Szabados}, {Szegedi-Elek}, {Taris}, {Taylor}, {Teixeira}, {Tolomei}, {Tonello}, {Torra}, {Torra}, {Torralba Elipe}, {Trabucchi}, {Tsounis}, {Turon}, {Ulla}, {Unger}, {Vaillant}, {van Dillen}, {van Reeven}, {Vanel}, {Vecchiato}, {Viala}, {Vicente}, {Voutsinas}, {Weiler}, {Wevers}, {Wyrzykowski}, {Yoldas}, {Yvard}, {Zhao}, {Zorec}, {Zucker}, \& {Zwitter}}]{GaiaDR3}
+{Gaia Collaboration}, {Vallenari}, A., {Brown}, A.~G.~A., {et~al.} 2023, \aap, 674, A1
+
+\bibitem[{{Galametz} {et~al.}(2013){Galametz}, {Grazian}, {Fontana}, {Ferguson}, {Ashby}, {Barro}, {Castellano}, {Dahlen}, {Donley}, {Faber}, {Grogin}, {Guo}, {Huang}, {Kocevski}, {Koekemoer}, {Lee}, {McGrath}, {Peth}, {Willner}, {Almaini}, {Cooper}, {Cooray}, {Conselice}, {Dickinson}, {Dunlop}, {Fazio}, {Foucaud}, {Gardner}, {Giavalisco}, {Hathi}, {Hartley}, {Koo}, {Lai}, {de Mello}, {McLure}, {Lucas}, {Paris}, {Pentericci}, {Santini}, {Simpson}, {Sommariva}, {Targett}, {Weiner}, {Wuyts}, \& {CANDELS Team}}]{galametz2013}
+{Galametz}, A., {Grazian}, A., {Fontana}, A., {et~al.} 2013, \apjs, 206, 10
+
+\bibitem[{{Gardner} {et~al.}(1993){Gardner}, {Cowie}, \& {Wainscoat}}]{1993ApJ...415L...9G}
+{Gardner}, J.~P., {Cowie}, L.~L., \& {Wainscoat}, R.~J. 1993, \apjl, 415, L9
+
+\bibitem[{{Gawiser} {et~al.}(2006){Gawiser}, {van Dokkum}, {Herrera}, {Maza}, {Castander}, {Infante}, {Lira}, {Quadri}, {Toner}, {Treister}, {Urry}, {Altmann}, {Assef}, {Christlein}, {Coppi}, {Dur{\'a}n}, {Franx}, {Galaz}, {Huerta}, {Liu}, {L{\'o}pez}, {M{\'e}ndez}, {Moore}, {Rubio}, {Ruiz}, {Toft}, \& {Yi}}]{Gawiser2006}
+{Gawiser}, E., {van Dokkum}, P.~G., {Herrera}, D., {et~al.} 2006, \apjs, 162, 1
+
+\bibitem[{{Gentile} {et~al.}(2024){Gentile}, {Casey}, {Akins}, {Franco}, {McKinney}, {Berman}, {Cooper}, {Drakos}, {Hirschmann}, {Long}, {Magdis}, {Koekemoer}, {Kokorev}, {Shuntov}, {Talia}, {Allen}, {Harish}, {Ilbert}, {McCracken}, {Kartaltepe}, {Liu}, {Paquereau}, {Rhodes}, {Rich}, {Robertson}, {Toft}, \& {Gozaliasl}}]{Gentile2024}
+{Gentile}, F., {Casey}, C.~M., {Akins}, H.~B., {et~al.} 2024, \apjl, 973, L2
+
+\bibitem[{{Giavalisco} {et~al.}(2004){Giavalisco}, {Ferguson}, {Koekemoer}, {Dickinson}, {Alexander}, {Bauer}, {Bergeron}, {Biagetti}, {Brandt}, {Casertano}, {Cesarsky}, {Chatzichristou}, {Conselice}, {Cristiani}, {Da Costa}, {Dahlen}, {de Mello}, {Eisenhardt}, {Erben}, {Fall}, {Fassnacht}, {Fosbury}, {Fruchter}, {Gardner}, {Grogin}, {Hook}, {Hornschemeier}, {Idzi}, {Jogee}, {Kretchmer}, {Laidler}, {Lee}, {Livio}, {Lucas}, {Madau}, {Mobasher}, {Moustakas}, {Nonino}, {Padovani}, {Papovich}, {Park}, {Ravindranath}, {Renzini}, {Richardson}, {Riess}, {Rosati}, {Schirmer}, {Schreier}, {Somerville}, {Spinrad}, {Stern}, {Stiavelli}, {Strolger}, {Urry}, {Vandame}, {Williams}, \& {Wolf}}]{Giavalisco2004}
+{Giavalisco}, M., {Ferguson}, H.~C., {Koekemoer}, A.~M., {et~al.} 2004, \apjl, 600, L93
+
+\bibitem[{{Gottumukkala} {et~al.}(2023){Gottumukkala}, {Barrufet}, {Oesch}, {Weibel}, {Allen}, {Alcalde Pampliega}, {Nelson}, {Williams}, {Brammer}, {Fudamoto}, {Gonz{\'a}lez}, {Heintz}, {Illingworth}, {Magee}, {Naidu}, {Shuntov}, {Stefanon}, {Toft}, {Valentino}, \& {Xiao}}]{Gottumukkala2023}
+{Gottumukkala}, R., {Barrufet}, L., {Oesch}, P.~A., {et~al.} 2023, arXiv e-prints, arXiv:2310.03787
+
+\bibitem[{{Grogin} {et~al.}(2011){Grogin}, {Kocevski}, {Faber}, {Ferguson}, {Koekemoer}, {Riess}, {Acquaviva}, {Alexander}, {Almaini}, {Ashby}, {Barden}, {Bell}, {Bournaud}, {Brown}, {Caputi}, {Casertano}, {Cassata}, {Castellano}, {Challis}, {Chary}, {Cheung}, {Cirasuolo}, {Conselice}, {Roshan Cooray}, {Croton}, {Daddi}, {Dahlen}, {Dav{\'e}}, {de Mello}, {Dekel}, {Dickinson}, {Dolch}, {Donley}, {Dunlop}, {Dutton}, {Elbaz}, {Fazio}, {Filippenko}, {Finkelstein}, {Fontana}, {Gardner}, {Garnavich}, {Gawiser}, {Giavalisco}, {Grazian}, {Guo}, {Hathi}, {H{\"a}ussler}, {Hopkins}, {Huang}, {Huang}, {Jha}, {Kartaltepe}, {Kirshner}, {Koo}, {Lai}, {Lee}, {Li}, {Lotz}, {Lucas}, {Madau}, {McCarthy}, {McGrath}, {McIntosh}, {McLure}, {Mobasher}, {Moustakas}, {Mozena}, {Nandra}, {Newman}, {Niemi}, {Noeske}, {Papovich}, {Pentericci}, {Pope}, {Primack}, {Rajan}, {Ravindranath}, {Reddy}, {Renzini}, {Rix}, {Robaina}, {Rodney}, {Rosario}, {Rosati}, {Salimbeni}, {Scarlata}, {Siana}, {Simard}, {Smidt}, {Somerville}, {Spinrad},
+  {Straughn}, {Strolger}, {Telford}, {Teplitz}, {Trump}, {van der Wel}, {Villforth}, {Wechsler}, {Weiner}, {Wiklind}, {Wild}, {Wilson}, {Wuyts}, {Yan}, \& {Yun}}]{Grogin2011}
+{Grogin}, N.~A., {Kocevski}, D.~D., {Faber}, S.~M., {et~al.} 2011, \apjs, 197, 35
+
+\bibitem[{{Guo} {et~al.}(2013){Guo}, {Ferguson}, {Giavalisco}, {Barro}, {Willner}, {Ashby}, {Dahlen}, {Donley}, {Faber}, {Fontana}, {Galametz}, {Grazian}, {Huang}, {Kocevski}, {Koekemoer}, {Koo}, {McGrath}, {Peth}, {Salvato}, {Wuyts}, {Castellano}, {Cooray}, {Dickinson}, {Dunlop}, {Fazio}, {Gardner}, {Gawiser}, {Grogin}, {Hathi}, {Hsu}, {Lee}, {Lucas}, {Mobasher}, {Nandra}, {Newman}, \& {van der Wel}}]{guo2013}
+{Guo}, Y., {Ferguson}, H.~C., {Giavalisco}, M., {et~al.} 2013, \apjs, 207, 24
+
+\bibitem[{Harvey \& Massey(2024)}]{harvey2024weak}
+Harvey, D.~R. \& Massey, R. 2024, Monthly Notices of the Royal Astronomical Society, 529, 802
+
+\bibitem[{{Hausen} \& {Robertson}(2022)}]{Hausen2022}
+{Hausen}, R. \& {Robertson}, B.~E. 2022, Astronomy and Computing, 39, 100586
+
+\bibitem[{{Hayward} \& {Smith}(2015)}]{Hayward2015}
+{Hayward}, C.~C. \& {Smith}, D. J.~B. 2015, \mnras, 446, 1512
+
+\bibitem[{{Heintz} {et~al.}(2024){Heintz}, {Watson}, {Brammer}, {Vejlgaard}, {Hutter}, {Strait}, {Matthee}, {Oesch}, {Jakobsson}, {Tanvir}, {Laursen}, {Naidu}, {Mason}, {Killi}, {Jung}, {Hsiao}, {Abdurro'uf}, {Coe}, {Arrabal Haro}, {Finkelstein}, \& {Toft}}]{Heintz2024}
+{Heintz}, K.~E., {Watson}, D., {Brammer}, G., {et~al.} 2024, Science, 384, 890
+
+\bibitem[{{Hildebrandt} {et~al.}(2012){Hildebrandt}, {Erben}, {Kuijken}, {van Waerbeke}, {Heymans}, {Coupon}, {Benjamin}, {Bonnett}, {Fu}, {Hoekstra}, {Kitching}, {Mellier}, {Miller}, {Velander}, {Hudson}, {Rowe}, {Schrabback}, {Semboloni}, \& {Ben{\'\i}tez}}]{Hildebrandt2012}
+{Hildebrandt}, H., {Erben}, T., {Kuijken}, K., {et~al.} 2012, \mnras, 421, 2355
+
+\bibitem[{Hirata \& Seljak(2003)}]{hirata2003shear}
+Hirata, C. \& Seljak, U. 2003, Monthly Notices of the Royal Astronomical Society, 343, 459
+
+\bibitem[{{Huertas-Company} {et~al.}(2024){Huertas-Company}, {Iyer}, {Angeloudi}, {Bagley}, {Finkelstein}, {Kartaltepe}, {McGrath}, {Sarmiento}, {Vega-Ferrero}, {Arrabal Haro}, {Behroozi}, {Buitrago}, {Cheng}, {Costantin}, {Dekel}, {Dickinson}, {Elbaz}, {Grogin}, {Hathi}, {Holwerda}, {Koekemoer}, {Lucas}, {Papovich}, {P{\'e}rez-Gonz{\'a}lez}, {Pirzkal}, {Seill{\'e}}, {de la Vega}, {Wuyts}, {Yang}, \& {Yung}}]{MHC2024}
+{Huertas-Company}, M., {Iyer}, K.~G., {Angeloudi}, E., {et~al.} 2024, \aap, 685, A48
+
+\bibitem[{{Huertas-Company} \& {Lanusse}(2023)}]{MHC-Lanusse2023}
+{Huertas-Company}, M. \& {Lanusse}, F. 2023, \pasa, 40, e001
+
+\bibitem[{{Huertas-Company} {et~al.}(2025){Huertas-Company}, {Shuntov}, {Dong}, {Walmsley}, {Ilbert}, {McCracken}, {Akins}, {Allen}, {Casey}, {Costantin}, {Daddi}, {Dekel}, {Franco}, {Garland}, {G{\'e}ron}, {Gozaliasl}, {Hirschmann}, {Kartaltepe}, {Koekemoer}, {Lintott}, {Liu}, {Lucas}, {Masters}, {Pacucci}, {Paquereau}, {P'erez-Gonz'alez}, {Rhodes}, {Robertson}, {Simmons}, {Smethurst}, {Toft}, \& {Yang}}]{MHC2025}
+{Huertas-Company}, M., {Shuntov}, M., {Dong}, Y., {et~al.} 2025, arXiv e-prints, arXiv:2502.03532
+
+\bibitem[{{Ilbert} {et~al.}(2015){Ilbert}, {Arnouts}, {Le Floc'h}, {Aussel}, {Bethermin}, {Capak}, {Hsieh}, {Kajisawa}, {Karim}, {Le F{\`e}vre}, {Lee}, {Lilly}, {McCracken}, {Michel-Dansac}, {Moutard}, {Renzini}, {Salvato}, {Sanders}, {Scoville}, {Sheth}, {Silverman}, {Smol{\v{c}}i{\'c}}, {Taniguchi}, \& {Tresse}}]{ilbert_ssfr_2015}
+{Ilbert}, O., {Arnouts}, S., {Le Floc'h}, E., {et~al.} 2015, \aap, 579, A2
+
+\bibitem[{Ilbert {et~al.}(2006)Ilbert, Arnouts, McCracken, Bolzonella, Bertin, Fevre, Mellier, Zamorani, Pello, Iovino, Tresse, Bottini, Garilli, Brun, Maccagni, Picat, Scaramella, Scodeggio, Vettolani, Zanichelli, Adami, Bardelli, Cappi, Charlot, Ciliegi, Contini, Cucciati, Foucaud, Franzetti, Gavignaud, Guzzo, Marano, Marinoni, Mazure, Meneux, Merighi, Paltani, Pollo, Pozzetti, Radovich, Zucca, Bondi, Bongiorno, Busarello, De~La~Torre, Gregorini, Lamareille, Mathez, Merluzzi, Ripepi, Rizzo, \& Vergani}]{ilbert_accurate_2006}
+Ilbert, O., Arnouts, S., McCracken, H.~J., {et~al.} 2006, \aap, 457, 841, arXiv: astro-ph/0603217
+
+\bibitem[{Ilbert {et~al.}(2013)Ilbert, McCracken, Le~Fèvre, Capak, Dunlop, Karim, Renzini, Caputi, Boissier, Arnouts, Aussel, Comparat, Guo, Hudelot, Kartaltepe, Kneib, Krogager, Le~Floc'h, Lilly, Mellier, Milvang-Jensen, Moutard, Onodera, Richard, Salvato, Sanders, Scoville, Silverman, Taniguchi, Tasca, Thomas, Toft, Tresse, Vergani, Wolk, \& Zirm}]{ilbert_mass_2013}
+Ilbert, O., McCracken, H.~J., Le~Fèvre, O., {et~al.} 2013, \aap, 556, A55
+
+\bibitem[{{Illingworth} {et~al.}(2013){Illingworth}, {Magee}, {Oesch}, {Bouwens}, {Labb{\'e}}, {Stiavelli}, {van Dokkum}, {Franx}, {Trenti}, {Carollo}, \& {Gonzalez}}]{Illingworth2013}
+{Illingworth}, G.~D., {Magee}, D., {Oesch}, P.~A., {et~al.} 2013, \apjs, 209, 6
+
+\bibitem[{{Kaminsky} {et~al.}(2025){Kaminsky}, {Cappelluti}, {Hasinger}, {Peca}, {Casey}, {Drakos}, {Faisst}, {Gozaliasl}, {Ilbert}, {Kartaltepe}, {Kashlinsky}, {Koekemoer}, {McCracken}, {Rhodes}, {Robertson}, {Shuntov}, \& {Sterling}}]{Kaminsky2025}
+{Kaminsky}, A., {Cappelluti}, N., {Hasinger}, G., {et~al.} 2025, arXiv e-prints, arXiv:2502.09705
+
+\bibitem[{{Kartaltepe} {et~al.}(2015){Kartaltepe}, {Sanders}, {Silverman}, {Kashino}, {Chu}, {Zahid}, {Hasinger}, {Kewley}, {Matsuoka}, {Nagao}, {Riguccini}, {Salvato}, {Schawinski}, {Taniguchi}, {Treister}, {Capak}, {Daddi}, \& {Ohta}}]{kartaltepe15b}
+{Kartaltepe}, J.~S., {Sanders}, D.~B., {Silverman}, J.~D., {et~al.} 2015, \apjl, 806, L35
+
+\bibitem[{{Kauffmann} {et~al.}(2022){Kauffmann}, {Ilbert}, {Weaver}, {McCracken}, {Milvang-Jensen}, {Brammer}, {Davidzon}, {Le F{\`e}vre}, {Liu}, {Mobasher}, {Moneti}, {Shuntov}, {Toft}, {Casey}, {Dunlop}, {Kartaltepe}, {Koekemoer}, {Sanders}, \& {Tresse}}]{Kauffmann2022}
+{Kauffmann}, O.~B., {Ilbert}, O., {Weaver}, J.~R., {et~al.} 2022, \aap, 667, A65
+
+\bibitem[{{Khostovan} {et~al.}(2025){Khostovan}, {Kartaltepe}, {Salvato}, {Ilbert}, {Casey}, {Algera}, {Antwi-Danso}, {Battisti}, {Brinch}, {Brusa}, {Calabro}, {Capak}, {Chartab}, {Cooper}, {Cox}, {Darvish}, {Drakos}, {Faisst}, {George}, {Gozaliasl}, {Harish}, {Hasinger}, {Hatamnia}, {Iovino}, {Jin}, {Kashino}, {Koekemoer}, {Laishram}, {Lee}, {Lertprasertpong}, {Lilly}, {Masters}, {Mobasher}, {Nagao}, {Onodera}, {Peng}, {Sanders}, {Sanders}, {Sattari}, {Scoville}, {Shah}, {Silverman}, {Suzuki}, {Tanaka}, {Toft}, {Trakhtenbrot}, {Trump}, {Vaccari}, {Valentino}, {Vanderhoof}, {Weaver}, {Yun}, \& {Zavala}}]{Khostovan2025}
+{Khostovan}, A.~A., {Kartaltepe}, J.~S., {Salvato}, M., {et~al.} 2025, arXiv e-prints, arXiv:2503.00120
+
+\bibitem[{{Koekemoer} {et~al.}(2007){Koekemoer}, {Aussel}, {Calzetti}, {Capak}, {Giavalisco}, {Kneib}, {Leauthaud}, {Le F{\`e}vre}, {McCracken}, {Massey}, {Mobasher}, {Rhodes}, {Scoville}, \& {Shopbell}}]{Koekemoer2007}
+{Koekemoer}, A.~M., {Aussel}, H., {Calzetti}, D., {et~al.} 2007, \apjs, 172, 196
+
+\bibitem[{{Koekemoer} {et~al.}(2011){Koekemoer}, {Faber}, {Ferguson}, {Grogin}, {Kocevski}, {Koo}, {Lai}, {Lotz}, {Lucas}, {McGrath}, {Ogaz}, {Rajan}, {Riess}, {Rodney}, {Strolger}, {Casertano}, {Castellano}, {Dahlen}, {Dickinson}, {Dolch}, {Fontana}, {Giavalisco}, {Grazian}, {Guo}, {Hathi}, {Huang}, {van der Wel}, {Yan}, {Acquaviva}, {Alexander}, {Almaini}, {Ashby}, {Barden}, {Bell}, {Bournaud}, {Brown}, {Caputi}, {Cassata}, {Challis}, {Chary}, {Cheung}, {Cirasuolo}, {Conselice}, {Roshan Cooray}, {Croton}, {Daddi}, {Dav{\'e}}, {de Mello}, {de Ravel}, {Dekel}, {Donley}, {Dunlop}, {Dutton}, {Elbaz}, {Fazio}, {Filippenko}, {Finkelstein}, {Frazer}, {Gardner}, {Garnavich}, {Gawiser}, {Gruetzbauch}, {Hartley}, {H{\"a}ussler}, {Herrington}, {Hopkins}, {Huang}, {Jha}, {Johnson}, {Kartaltepe}, {Khostovan}, {Kirshner}, {Lani}, {Lee}, {Li}, {Madau}, {McCarthy}, {McIntosh}, {McLure}, {McPartland}, {Mobasher}, {Moreira}, {Mortlock}, {Moustakas}, {Mozena}, {Nandra}, {Newman}, {Nielsen}, {Niemi}, {Noeske}, {Papovich},
+  {Pentericci}, {Pope}, {Primack}, {Ravindranath}, {Reddy}, {Renzini}, {Rix}, {Robaina}, {Rosario}, {Rosati}, {Salimbeni}, {Scarlata}, {Siana}, {Simard}, {Smidt}, {Snyder}, {Somerville}, {Spinrad}, {Straughn}, {Telford}, {Teplitz}, {Trump}, {Vargas}, {Villforth}, {Wagner}, {Wand ro}, {Wechsler}, {Weiner}, {Wiklind}, {Wild}, {Wilson}, {Wuyts}, \& {Yun}}]{Koekemoer2011}
+{Koekemoer}, A.~M., {Faber}, S.~M., {Ferguson}, H.~C., {et~al.} 2011, \apjs, 197, 36
+
+\bibitem[{{Kron}(1980)}]{Kron1980}
+{Kron}, R.~G. 1980, \apjs, 43, 305
+
+\bibitem[{{K{\"u}mmel} {et~al.}(2020){K{\"u}mmel}, {Bertin}, {Schefer}, {Apostolakos}, {{\'A}lvarez-Ayll{\'o}n}, \& {Dubath}}]{kummel20}
+{K{\"u}mmel}, M., {Bertin}, E., {Schefer}, M., {et~al.} 2020, in Astronomical Society of the Pacific Conference Series, Vol. 527, Astronomical Data Analysis Software and Systems XXIX, ed. R.~{Pizzo}, E.~R. {Deul}, J.~D. {Mol}, J.~{de Plaa}, \& H.~{Verkouter}, 29
+
+\bibitem[{{Kümmel} {et~al.}(2022){Kümmel}, {{\'A}lvarez-Ayll{\'o}n}, {Bertin}, {Dubath}, {Gavazzi}, {Hartley}, \& {Schefer}}]{Kummel2022}
+{Kümmel}, M., {{\'A}lvarez-Ayll{\'o}n}, A., {Bertin}, E., {et~al.} 2022, arXiv e-prints, arXiv:2212.02428
+
+\bibitem[{{Labb{\'e}} {et~al.}(2003){Labb{\'e}}, {Franx}, {Rudnick}, {F{\"o}rster Schreiber}, {Rix}, {Moorwood}, {van Dokkum}, {van der Werf}, {R{\"o}ttgering}, {van Starkenburg}, {van der Wel}, {Kuijken}, \& {Daddi}}]{Labbe2003}
+{Labb{\'e}}, I., {Franx}, M., {Rudnick}, G., {et~al.} 2003, \aj, 125, 1107
+
+\bibitem[{Laigle {et~al.}(2016)Laigle, McCracken, Ilbert, Hsieh, Davidzon, Capak, Hasinger, Silverman, Pichon, Coupon, Aussel, Borgne, Caputi, Cassata, Chang, Civano, Dunlop, Fynbo, kartaltepe, Koekemoer, Fevre, Floc'h, Leauthaud, Lilly, Lin, Marchesi, Milvang-Jensen, Salvato, Sanders, Scoville, Smolcic, Stockmann, Taniguchi, Tasca, Toft, Vaccari, \& Zabl}]{laigle_cosmos2015_2016}
+Laigle, C., McCracken, H.~J., Ilbert, O., {et~al.} 2016, \apjs, 224, 24, arXiv: 1604.02350
+
+\bibitem[{{Laureijs} {et~al.}(2011){Laureijs}, {Amiaux}, {Arduini}, {Augu{\`e}res}, {Brinchmann}, {Cole}, {Cropper}, {Dabin}, {Duvet}, {Ealet}, {Garilli}, {Gondoin}, {Guzzo}, {Hoar}, {Hoekstra}, {Holmes}, {Kitching}, {Maciaszek}, {Mellier}, {Pasian}, {Percival}, {Rhodes}, {Saavedra Criado}, {Sauvage}, {Scaramella}, {Valenziano}, {Warren}, {Bender}, {Castander}, {Cimatti}, {Le F{\`e}vre}, {Kurki-Suonio}, {Levi}, {Lilje}, {Meylan}, {Nichol}, {Pedersen}, {Popa}, {Rebolo Lopez}, {Rix}, {Rottgering}, {Zeilinger}, {Grupp}, {Hudelot}, {Massey}, {Meneghetti}, {Miller}, {Paltani}, {Paulin-Henriksson}, {Pires}, {Saxton}, {Schrabback}, {Seidel}, {Walsh}, {Aghanim}, {Amendola}, {Bartlett}, {Baccigalupi}, {Beaulieu}, {Benabed}, {Cuby}, {Elbaz}, {Fosalba}, {Gavazzi}, {Helmi}, {Hook}, {Irwin}, {Kneib}, {Kunz}, {Mannucci}, {Moscardini}, {Tao}, {Teyssier}, {Weller}, {Zamorani}, {Zapatero Osorio}, {Boulade}, {Foumond}, {Di Giorgio}, {Guttridge}, {James}, {Kemp}, {Martignac}, {Spencer}, {Walton}, {Bl{\"u}mchen}, {Bonoli},
+  {Bortoletto}, {Cerna}, {Corcione}, {Fabron}, {Jahnke}, {Ligori}, {Madrid}, {Martin}, {Morgante}, {Pamplona}, {Prieto}, {Riva}, {Toledo}, {Trifoglio}, {Zerbi}, {Abdalla}, {Douspis}, {Grenet}, {Borgani}, {Bouwens}, {Courbin}, {Delouis}, {Dubath}, {Fontana}, {Frailis}, {Grazian}, {Koppenh{\"o}fer}, {Mansutti}, {Melchior}, {Mignoli}, {Mohr}, {Neissner}, {Noddle}, {Poncet}, {Scodeggio}, {Serrano}, {Shane}, {Starck}, {Surace}, {Taylor}, {Verdoes-Kleijn}, {Vuerli}, {Williams}, {Zacchei}, {Altieri}, {Escudero Sanz}, {Kohley}, {Oosterbroek}, {Astier}, {Bacon}, {Bardelli}, {Baugh}, {Bellagamba}, {Benoist}, {Bianchi}, {Biviano}, {Branchini}, {Carbone}, {Cardone}, {Clements}, {Colombi}, {Conselice}, {Cresci}, {Deacon}, {Dunlop}, {Fedeli}, {Fontanot}, {Franzetti}, {Giocoli}, {Garcia-Bellido}, {Gow}, {Heavens}, {Hewett}, {Heymans}, {Holland}, {Huang}, {Ilbert}, {Joachimi}, {Jennins}, {Kerins}, {Kiessling}, {Kirk}, {Kotak}, {Krause}, {Lahav}, {van Leeuwen}, {Lesgourgues}, {Lombardi}, {Magliocchetti}, {Maguire},
+  {Majerotto}, {Maoli}, {Marulli}, {Maurogordato}, {McCracken}, {McLure}, {Melchiorri}, {Merson}, {Moresco}, {Nonino}, {Norberg}, {Peacock}, {Pello}, {Penny}, {Pettorino}, {Di Porto}, {Pozzetti}, {Quercellini}, {Radovich}, {Rassat}, {Roche}, {Ronayette}, {Rossetti}, {Sartoris}, {Schneider}, {Semboloni}, {Serjeant}, {Simpson}, {Skordis}, {Smadja}, {Smartt}, {Spano}, {Spiro}, {Sullivan}, {Tilquin}, {Trotta}, {Verde}, {Wang}, {Williger}, {Zhao}, {Zoubian}, \& {Zucca}}]{Laureijs2011}
+{Laureijs}, R., {Amiaux}, J., {Arduini}, S., {et~al.} 2011, arXiv e-prints
+
+\bibitem[{Leauthaud {et~al.}(2007)Leauthaud, Massey, Kneib, Rhodes, Johnston, Capak, Heymans, Ellis, Koekemoer, Fevre, Mellier, Refregier, Robin, Scoville, Tasca, Taylor, \& Van~Waerbeke}]{leauthaud_weak_2007}
+Leauthaud, A., Massey, R., Kneib, J.~P., {et~al.} 2007, \apjs, 172, 219, arXiv: astro-ph/0702359
+
+\bibitem[{{Leja} {et~al.}(2019){Leja}, {Johnson}, {Conroy}, {van Dokkum}, {Speagle}, {Brammer}, {Momcheva}, {Skelton}, {Whitaker}, {Franx}, \& {Nelson}}]{Leja19}
+{Leja}, J., {Johnson}, B.~D., {Conroy}, C., {et~al.} 2019, \apj, 877, 140
+
+\bibitem[{{Leja} {et~al.}(2020){Leja}, {Speagle}, {Johnson}, {Conroy}, {van Dokkum}, \& {Franx}}]{Leja2020}
+{Leja}, J., {Speagle}, J.~S., {Johnson}, B.~D., {et~al.} 2020, \apj, 893, 111
+
+\bibitem[{{Madau}(1995)}]{madau_opa_1995}
+{Madau}, P. 1995, \apj, 441, 18
+
+\bibitem[{{Madau} \& {Dickinson}(2014)}]{MadauDickinson2014}
+{Madau}, P. \& {Dickinson}, M. 2014, \araa, 52, 415
+
+\bibitem[{{Magdis} {et~al.}(2012){Magdis}, {Daddi}, {B{\'e}thermin}, {Sargent}, {Elbaz}, {Pannella}, {Dickinson}, {Dannerbauer}, {da Cunha}, {Walter}, {Rigopoulou}, {Charmandaris}, {Hwang}, \& {Kartaltepe}}]{magdis_2012}
+{Magdis}, G.~E., {Daddi}, E., {B{\'e}thermin}, M., {et~al.} 2012, \apj, 760, 6
+
+\bibitem[{Mandelbaum {et~al.}(2005)Mandelbaum, Hirata, Seljak, Guzik, Padmanabhan, Blake, Blanton, Lupton, \& Brinkmann}]{mandelbaum2005systematic}
+Mandelbaum, R., Hirata, C.~M., Seljak, U., {et~al.} 2005, Monthly Notices of the Royal Astronomical Society, 361, 1287
+
+\bibitem[{Manzoni {et~al.}(2025)Manzoni, Broadhurst, Lim, Liu, Smoot, Baugh, Tompkins, Windhorst, Driver, Carleton, Frye, Fung, Zhang, Cohen, Conselice, Grogin, Jansen, Koekemoer, III, Pirzkal, \& Willmer}]{Manzoni2025}
+Manzoni, G., Broadhurst, T., Lim, J., {et~al.} 2025, Explaining JWST counts with galaxy formation models
+
+\bibitem[{Massey {et~al.}(2007)Massey, Rhodes, Ellis, Scoville, Leauthaud, Finoguenov, Capak, Bacon, Aussel, Kneib, Koekemoer, McCracken, Mobasher, Pires, Refregier, Sasaki, Starck, Taniguchi, Taylor, \& Taylor}]{Massey_2007}
+Massey, R., Rhodes, J., Ellis, R., {et~al.} 2007, Nature, 445, 286–290
+
+\bibitem[{McCracken {et~al.}(2012)McCracken, Milvang-Jensen, Dunlop, Franx, Fynbo, Fèvre, Holt, Caputi, Goranova, Buitrago, Emerson, Freudling, Hudelot, López-Sanjuan, Magnard, Mellier, Møller, Nilsson, Sutherland, Tasca, \& Zabl}]{mccracken_ultravista_2012}
+McCracken, H.~J., Milvang-Jensen, B., Dunlop, J., {et~al.} 2012, \aap, 544, A156
+
+\bibitem[{{McKinney} {et~al.}(2024){McKinney}, {Casey}, {Long}, {Cooper}, {Manning}, {Franco}, {Akin}, {Lambrides}, {Gammon}, {Silva}, {Gentile}, {Zavala}, {Amvrosiadis}, {Andika}, {Brinch}, {Champagne}, {Chartab}, {Drakos}, {Faisst}, {Fujimoto}, {Gillman}, {Gozaliasl}, {Greve}, {Harish}, {Hayward}, {Hirschmann}, {Ilbert}, {Kalita}, {Kartaltepe}, {Koekemoer}, {Kokorev}, {Liu}, {Magdis}, {McCracken}, {Rhodes}, {Robertson}, {Talia}, {Valentino}, \& {Vijayan}}]{McKinney_scubaDive_2024}
+{McKinney}, J., {Casey}, C.~M., {Long}, A.~S., {et~al.} 2024, arXiv e-prints, arXiv:2408.08346
+
+\bibitem[{{Metcalfe} {et~al.}(2001){Metcalfe}, {Shanks}, {Campos}, {McCracken}, \& {Fong}}]{metcalfe_galaxy_2001}
+{Metcalfe}, N., {Shanks}, T., {Campos}, A., {McCracken}, H.~J., \& {Fong}, R. 2001, \mnras, 323, 795
+
+\bibitem[{{Miyazaki} {et~al.}(2018){Miyazaki}, {Komiyama}, {Kawanomoto}, {Doi}, {Furusawa}, {Hamana}, {Hayashi}, {Ikeda}, {Kamata}, {Karoji}, {Koike}, {Kurakami}, {Miyama}, {Morokuma}, {Nakata}, {Namikawa}, {Nakaya}, {Nariai}, {Obuchi}, {Oishi}, {Okada}, {Okura}, {Tait}, {Takata}, {Tanaka}, {Tanaka}, {Terai}, {Tomono}, {Uraguchi}, {Usuda}, {Utsumi}, {Yamada}, {Yamanoi}, {Aihara}, {Fujimori}, {Mineo}, {Miyatake}, {Oguri}, {Uchida}, {Tanaka}, {Yasuda}, {Takada}, {Murayama}, {Nishizawa}, {Sugiyama}, {Chiba}, {Futamase}, {Wang}, {Chen}, {Ho}, {Liaw}, {Chiu}, {Ho}, {Lai}, {Lee}, {Jeng}, {Iwamura}, {Armstrong}, {Bickerton}, {Bosch}, {Gunn}, {Lupton}, {Loomis}, {Price}, {Smith}, {Strauss}, {Turner}, {Suzuki}, {Miyazaki}, {Muramatsu}, {Yamamoto}, {Endo}, {Ezaki}, {Ito}, {Kawaguchi}, {Sofuku}, {Taniike}, {Akutsu}, {Dojo}, {Kasumi}, {Matsuda}, {Imoto}, {Miwa}, {Suzuki}, {Takeshi}, \& {Yokota}}]{2018PASJ...70S...1M}
+{Miyazaki}, S., {Komiyama}, Y., {Kawanomoto}, S., {et~al.} 2018, \pasj, 70, S1
+
+\bibitem[{{Miyazaki} {et~al.}(2002){Miyazaki}, {Komiyama}, {Sekiguchi}, {Okamura}, {Doi}, {Furusawa}, {Hamabe}, {Imi}, {Kimura}, {Nakata}, {Okada}, {Ouchi}, {Shimasaku}, {Yagi}, \& {Yasuda}}]{2002PASJ...54..833M}
+{Miyazaki}, S., {Komiyama}, Y., {Sekiguchi}, M., {et~al.} 2002, \pasj, 54, 833
+
+\bibitem[{Moneti {et~al.}(2021)Moneti, McCracken, Shuntov, Kauffmann, Capak, Davidzon, Ilbert, Scarlata, Toft, Weaver, Chary, Cuby, Faisst, Masters, McPartland, Mobasher, Sanders, Scaramella, Stern, Szapudi, Teplitz, Zalesky, Amara, Auricchio, Bodendorf, Bonino, Branchini, Brau-Nogue, Brescia, Brinchmann, Capobianco, Carbone, Carretero, Castander, Castellano, Cavuoti, Cimatti, Cledassou, Congedo, Conselice, Conversi, Copin, Corcione, Costille, Cropper, Da~Silva, Degaudenzi, Douspis, Dubath, Duncan, Dupac, Dusini, Farrens, Ferriol, Fosalba, Frailis, Franceschi, Fumana, Garilli, Gillis, Giocoli, Granett, Grazian, Grupp, Haugan, Hoekstra, Holmes, Hormuth, Hudelot, Jahnke, Kermiche, Kiessling, Kilbinger, Kitching, Kohley, Kuemmel, Kunz, Kurki-Suonio, Ligori, Lilje, Lloro, Maiorano, Mansutti, Marggraf, Markovic, Marulli, Massey, Maurogordato, Meneghetti, Merlin, Meylan, Moresco, Moscardini, Munari, Niemi, Padilla, Paltani, Pasian, Pedersen, Pires, Poncet, Popa, Pozzetti, Raison, Rebolo, Rhodes, Rix, Roncarelli,
+  Rossetti, Saglia, Schneider, Secroun, Seidel, Serrano, Sirignano, Sirri, Stanco, Tallada-Crespi, Taylor, Tereno, Toledo-Moreo, Torradeflot, Wang, Welikala, Weller, Zamorani, Zoubian, Andreon, Bardelli, Camera, Gracia-Carpio, Medinaceli, Mei, Polenta, Romelli, Sureau, Tenti, Vassallo, Zacchei, Zucca, Baccigalupi, Balaguera-Antolinez, Bernardeau, Biviano, Bolzonella, Bozzo, Burigana, Cabanac, Cappi, Carvalho, Casas, Castignani, Colodro-Conde, Coupon, Courtois, Di~Ferdinando, Farina, Finelli, Flose-Reimberg, Fotopoulou, Galeotta, Ganga, Garcia-Bellido, Gaztanaga, Gozaliasl, Hook, Joachimi, Kansal, Keihanen, Kirkpatrick, Lindholm, Mainetti, Maino, Maoli, Martinelli, Martinet, Maturi, Metcalf, Morgante, Morisset, Nucita, Patrizii, Potter, Renzi, Riccio, Sanchez, Sapone, Schirmer, Schultheis, Scottez, Sefusatti, Teyssier, Tubio, Tutusaus, Valiviita, Viel, \& Hildebrandt}]{moneti_euclid_2021}
+Moneti, A., McCracken, H.~J., Shuntov, M., {et~al.} 2021, arXiv:2110.13928 [astro-ph], arXiv: 2110.13928
+
+\bibitem[{Nayyeri {et~al.}(2017)Nayyeri, Hemmati, Mobasher, Ferguson, Cooray, Barro, Faber, Dickinson, Koekemoer, Peth, Salvato, Ashby, Darvish, Donley, Durbin, Finkelstein, Fontana, Grogin, Gruetzbauch, Huang, Khostovan, Kocevski, Kodra, Lee, Newman, Pacifici, Pforr, Stefanon, Wiklind, Willner, Wuyts, Castellano, Conselice, Dolch, Dunlop, Galametz, Hathi, Lucas, \& Yan}]{nayyeri_candels_2017}
+Nayyeri, H., Hemmati, S., Mobasher, B., {et~al.} 2017, \apjs, 228, 7, arXiv: 1612.07364
+
+\bibitem[{{Nightingale} {et~al.}(2025){Nightingale}, {Mahler}, {McCleary}, {He}, {Hogg}, {Amvrosiadis}, {Gozaliasl}, {Mercier}, {Scognamiglio}, {Berman}, {Leroy}, {Liu}, {Massey}, {Shuntov}, {von Wietersheim-Kramsta}, {Franco}, {Paquereau}, {Ilbert}, {Allen}, {Toft}, {Akins}, {Casey}, {Kartaltepe}, {Koekemoer}, {McCracken}, {Rhodes}, {Robertson}, {Drakos}, {Faisst}, \& {Jin}}]{Nightingale2025}
+{Nightingale}, J., {Mahler}, G., {McCleary}, J., {et~al.} 2025, arXiv e-prints, arXiv:2503.08777
+
+\bibitem[{{Oesch} {et~al.}(2016){Oesch}, {Brammer}, {van Dokkum}, {Illingworth}, {Bouwens}, {Labb{\'e}}, {Franx}, {Momcheva}, {Ashby}, {Fazio}, {Gonzalez}, {Holden}, {Magee}, {Skelton}, {Smit}, {Spitler}, {Trenti}, \& {Willner}}]{Oesch2016}
+{Oesch}, P.~A., {Brammer}, G., {van Dokkum}, P.~G., {et~al.} 2016, \apj, 819, 129
+
+\bibitem[{Oke(1974)}]{oke_absolute_1974}
+Oke, J.~B. 1974, ApJS, 27, 21
+
+\bibitem[{{Paquereau} {et~al.}(2025){Paquereau}, {Laigle}, {McCracken}, {Shuntov}, {Ilbert}, {Akins}, {Allen}, {Arango- Togo}, {Berman}, {Bethermin}, {Casey}, {McCleary}, {Dubois}, {Drakos}, {Faisst}, {Franco}, {Harish}, {Jespersen}, {Kartaltepe}, {Koekemoer}, {Kokorev}, {Lambrides}, {Larson}, {Liu}, {Le Borgne}, {Lewis}, {McKinney}, {Mercier}, {Rhodes}, {Robertson}, {Toft}, {Trebitsch}, {Tresse}, \& {Weaver}}]{Paquereau2025}
+{Paquereau}, L., {Laigle}, C., {McCracken}, H.~J., {et~al.} 2025, arXiv e-prints, arXiv:2501.11674
+
+\bibitem[{Peng {et~al.}(2010)Peng, Lilly, Kovac, Bolzonella, Pozzetti, Renzini, Zamorani, Ilbert, Knobel, Iovino, Maier, Cucciati, Tasca, Carollo, Silverman, Kampczyk, de~Ravel, Sanders, Scoville, Contini, Mainieri, Scodeggio, Kneib, Fevre, Bardelli, Bongiorno, Caputi, Coppa, de~la Torre, Franzetti, Garilli, Lamareille, Borgne, Brun, Mignoli, Montero, Pello, Ricciardelli, Tanaka, Tresse, Vergani, Welikala, Zucca, Oesch, Abbas, Barnes, Bordoloi, Bottini, Cappi, Cassata, Cimatti, Fumana, Hasinger, Koekemoer, Leauthaud, Maccagni, Marinoni, McCracken, Memeo, Meneux, Nair, Porciani, Presotto, \& Scaramella}]{peng_mass_2010}
+Peng, Y., Lilly, S.~J., Kovac, K., {et~al.} 2010, \apj, 721, 193, arXiv: 1003.4747
+
+\bibitem[{{P{\'e}rez-Gonz{\'a}lez} {et~al.}(2024){P{\'e}rez-Gonz{\'a}lez}, {Rinaldi}, {Caputi}, {{\'A}lvarez-M{\'a}rquez}, {Annunziatella}, {Langeroodi}, {Moutard}, {Boogaard}, {Iani}, {Melinder}, {Costantin}, {{\"O}stlin}, {Colina}, {Greve}, {Wright}, {Alonso-Herrero}, {Bik}, {Bosman}, {Crespo G{\'o}mez}, {Dicken}, {Eckart}, {Garc{\'\i}a-Mar{\'\i}n}, {Gillman}, {G{\"u}del}, {Henning}, {Hjorth}, {Jermann}, {Labiano}, {Meyer}, {Pei{\ensuremath{\beta}}ker}, {Pye}, {Ray}, {Tikkanen}, {Walter}, \& {van der Werf}}]{Perez-Gonzalez2024b}
+{P{\'e}rez-Gonz{\'a}lez}, P.~G., {Rinaldi}, P., {Caputi}, K.~I., {et~al.} 2024, \apjl, 969, L10
+
+\bibitem[{{Perrin} {et~al.}(2014){Perrin}, {Sivaramakrishnan}, {Lajoie}, {Elliott}, {Pueyo}, {Ravindranath}, \& {Albert}}]{2014SPIE}
+{Perrin}, M.~D., {Sivaramakrishnan}, A., {Lajoie}, C.-P., {et~al.} 2014, in Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series, Vol. 9143, Space Telescopes and Instrumentation 2014: Optical, Infrared, and Millimeter Wave, ed. J.~{Oschmann}, Jacobus~M., M.~{Clampin}, G.~G. {Fazio}, \& H.~A. {MacEwen}, 91433X
+
+\bibitem[{Pozzetti {et~al.}(2010)Pozzetti, Bolzonella, Zucca, Zamorani, Lilly, Renzini, Moresco, Mignoli, Cassata, Tasca, Lamareille, Maier, Meneux, Halliday, Oesch, Vergani, Caputi, Kovac, Cimatti, Cucciati, Iovino, Peng, Carollo, Contini, Kneib, F'evre, Mainieri, Scodeggio, Bardelli, Bongiorno, Coppa, de~la Torre, de~Ravel, Franzetti, Garilli, Kampczyk, Knobel, Borgne, Brun, Pell`o, Montero, Ricciardelli, Silverman, Tanaka, Tresse, Abbas, Bottini, Cappi, Guzzo, Koekemoer, Leauthaud, Maccagni, Marinoni, McCracken, Memeo, Porciani, Scaramella, Scarlata, \& Scoville}]{pozzetti_zcosmos_2010}
+Pozzetti, L., Bolzonella, M., Zucca, E., {et~al.} 2010, \aap, 523, A13, arXiv: 0907.5416
+
+\bibitem[{Prevot {et~al.}(1984)Prevot, Lequeux, Maurice, Prevot, \& Rocca-Volmerange}]{prevot_typical_1984}
+Prevot, M.~L., Lequeux, J., Maurice, E., Prevot, L., \& Rocca-Volmerange, B. 1984, \aap, 132, 389
+
+\bibitem[{{Rest} {et~al.}(2023){Rest}, {Pierel}, {Correnti}, {Canipe}, {Hilbert}, {Engesser}, {Sunnquist}, \& {Fox}}]{Rest2023}
+{Rest}, A., {Pierel}, J., {Correnti}, M., {et~al.} 2023, {arminrest/jhat: The JWST HST Alignment Tool (JHAT)}
+
+\bibitem[{{Rieke} {et~al.}(2023{\natexlab{a}}){Rieke}, {Kelly}, {Misselt}, {Stansberry}, {Boyer}, {Beatty}, {Egami}, {Florian}, {Greene}, {Hainline}, {Leisenring}, {Roellig}, {Schlawin}, {Sun}, {Tinnin}, {Williams}, {Willmer}, {Wilson}, {Clark}, {Rohrbach}, {Brooks}, {Canipe}, {Correnti}, {DiFelice}, {Gennaro}, {Girard}, {Hartig}, {Hilbert}, {Koekemoer}, {Nikolov}, {Pirzkal}, {Rest}, {Robberto}, {Sunnquist}, {Telfer}, {Wu}, {Ferry}, {Lewis}, {Baum}, {Beichman}, {Doyon}, {Dressler}, {Eisenstein}, {Ferrarese}, {Hodapp}, {Horner}, {Jaffe}, {Johnstone}, {Krist}, {Martin}, {McCarthy}, {Meyer}, {Rieke}, {Trauger}, \& {Young}}]{RiekeNIRCAM}
+{Rieke}, M.~J., {Kelly}, D.~M., {Misselt}, K., {et~al.} 2023{\natexlab{a}}, \pasp, 135, 028001
+
+\bibitem[{{Rieke} {et~al.}(2023{\natexlab{b}}){Rieke}, {Robertson}, {Tacchella}, {Hainline}, {Johnson}, {Hausen}, {Ji}, {Willmer}, {Eisenstein}, {Pusk{\'a}s}, {Alberts}, {Arribas}, {Baker}, {Baum}, {Bhatawdekar}, {Bonaventura}, {Boyett}, {Bunker}, {Cameron}, {Carniani}, {Charlot}, {Chevallard}, {Chen}, {Curti}, {Curtis-Lake}, {Danhaive}, {DeCoursey}, {Dressler}, {Egami}, {Endsley}, {Helton}, {Hviding}, {Kumari}, {Looser}, {Lyu}, {Maiolino}, {Maseda}, {Nelson}, {Rieke}, {Rix}, {Sandles}, {Saxena}, {Sharpe}, {Shivaei}, {Skarbinski}, {Smit}, {Stark}, {Stone}, {Suess}, {Sun}, {Topping}, {{\"U}bler}, {Villanueva}, {Wallace}, {Williams}, {Willott}, {Whitler}, {Witstok}, \& {Woodrum}}]{Rieke2023}
+{Rieke}, M.~J., {Robertson}, B., {Tacchella}, S., {et~al.} 2023{\natexlab{b}}, \apjs, 269, 16
+
+\bibitem[{{Rix} {et~al.}(2004){Rix}, {Barden}, {Beckwith}, {Bell}, {Borch}, {Caldwell}, {H{\"a}ussler}, {Jahnke}, {Jogee}, {McIntosh}, {Meisenheimer}, {Peng}, {Sanchez}, {Somerville}, {Wisotzki}, \& {Wolf}}]{2004ApJS..152..163R}
+{Rix}, H.-W., {Barden}, M., {Beckwith}, S. V.~W., {et~al.} 2004, \apjs, 152, 163
+
+\bibitem[{{Robertson}(2022)}]{Robertson2021}
+{Robertson}, B.~E. 2022, \araa, 60, 121
+
+\bibitem[{Rowe {et~al.}(2015)Rowe, Jarvis, Mandelbaum, Bernstein, Bosch, Simet, Meyers, Kacprzak, Nakajima, Zuntz, Miyatake, Dietrich, Armstrong, Melchior, \& Gill}]{rowe2015galsim}
+Rowe, B., Jarvis, M., Mandelbaum, R., {et~al.} 2015, GalSim: The modular galaxy image simulation toolkit
+
+\bibitem[{{Saito} {et~al.}(2020){Saito}, {de la Torre}, {Ilbert}, {Dubois}, {Yabe}, \& {Coupon}}]{saito_EL-COSMOS_2020}
+{Saito}, S., {de la Torre}, S., {Ilbert}, O., {et~al.} 2020, \mnras, 494, 199
+
+\bibitem[{{Salim} {et~al.}(2018){Salim}, {Boquien}, \& {Lee}}]{salim_dust_2018}
+{Salim}, S., {Boquien}, M., \& {Lee}, J.~C. 2018, \apj, 859, 11
+
+\bibitem[{{Salvato} {et~al.}(2011){Salvato}, {Ilbert}, {Hasinger}, {Rau}, {Civano}, {Zamorani}, {Brusa}, {Elvis}, {Vignali}, {Aussel}, {Comastri}, {Fiore}, {Le Floc'h}, {Mainieri}, {Bardelli}, {Bolzonella}, {Bongiorno}, {Capak}, {Caputi}, {Cappelluti}, {Carollo}, {Contini}, {Garilli}, {Iovino}, {Fotopoulou}, {Fruscione}, {Gilli}, {Halliday}, {Kneib}, {Kakazu}, {Kartaltepe}, {Koekemoer}, {Kovac}, {Ideue}, {Ikeda}, {Impey}, {Le Fevre}, {Lamareille}, {Lanzuisi}, {Le Borgne}, {Le Brun}, {Lilly}, {Maier}, {Manohar}, {Masters}, {McCracken}, {Messias}, {Mignoli}, {Mobasher}, {Nagao}, {Pello}, {Puccetti}, {Perez-Montero}, {Renzini}, {Sargent}, {Sanders}, {Scodeggio}, {Scoville}, {Shopbell}, {Silvermann}, {Taniguchi}, {Tasca}, {Tresse}, {Trump}, \& {Zucca}}]{salvato_photoz_2011}
+{Salvato}, M., {Ilbert}, O., {Hasinger}, G., {et~al.} 2011, \apj, 742, 61
+
+\bibitem[{Sawicki {et~al.}(2019)Sawicki, Arnouts, Huang, Coupon, Golob, Gwyn, Foucaud, Moutard, Iwata, Liu, Chen, Desprez, Harikane, Ono, Strauss, Tanaka, Thibert, Balogh, Bundy, Chapman, Gunn, Hsieh, Ilbert, Jing, LeFèvre, Li, Matsuda, Miyazaki, Nagao, Nishizawa, Ouchi, Shimasaku, Silverman, de~la Torre, Tresse, Wang, Willott, Yamada, Yang, \& Yee}]{sawicki_cfht_2019}
+Sawicki, M., Arnouts, S., Huang, J., {et~al.} 2019, \mnras, 489, 5202
+
+\bibitem[{{Schlawin} {et~al.}(2020){Schlawin}, {Leisenring}, {Misselt}, {Greene}, {McElwain}, {Beatty}, \& {Rieke}}]{Schlawin2020}
+{Schlawin}, E., {Leisenring}, J., {Misselt}, K., {et~al.} 2020, \aj, 160, 231
+
+\bibitem[{{Schreiber} {et~al.}(2016){Schreiber}, {Elbaz}, {Pannella}, {Ciesla}, {Wang}, {Koekemoer}, {Rafelski}, \& {Daddi}}]{2016A&A...589A..35S}
+{Schreiber}, C., {Elbaz}, D., {Pannella}, M., {et~al.} 2016, \aap, 589, A35
+
+\bibitem[{{Scoville} {et~al.}(2013){Scoville}, {Arnouts}, {Aussel}, {Benson}, {Bongiorno}, {Bundy}, {Calvo}, {Capak}, {Carollo}, {Civano}, {Dunlop}, {Elvis}, {Faisst}, {Finoguenov}, {Fu}, {Giavalisco}, {Guo}, {Ilbert}, {Iovino}, {Kajisawa}, {Kartaltepe}, {Leauthaud}, {Le F{\`e}vre}, {LeFloch}, {Lilly}, {Liu}, {Manohar}, {Massey}, {Masters}, {McCracken}, {Mobasher}, {Peng}, {Renzini}, {Rhodes}, {Salvato}, {Sanders}, {Sarvestani}, {Scarlata}, {Schinnerer}, {Sheth}, {Shopbell}, {Smol{\v{c}}i{\'c}}, {Taniguchi}, {Taylor}, {White}, \& {Yan}}]{Scoville2013}
+{Scoville}, N., {Arnouts}, S., {Aussel}, H., {et~al.} 2013, \apjs, 206, 3
+
+\bibitem[{{Scoville} {et~al.}(2007){Scoville}, {Aussel}, {Brusa}, {Capak}, {Carollo}, {Elvis}, {Giavalisco}, {Guzzo}, {Hasinger}, {Impey}, {Kneib}, {LeFevre}, {Lilly}, {Mobasher}, {Renzini}, {Rich}, {Sanders}, {Schinnerer}, {Schminovich}, {Shopbell}, {Taniguchi}, \& {Tyson}}]{scoville_cosmic_2007}
+{Scoville}, N., {Aussel}, H., {Brusa}, M., {et~al.} 2007, \apjs, 172, 1
+
+\bibitem[{{S{\'e}rsic}(1963)}]{Sersic1963}
+{S{\'e}rsic}, J.~L. 1963, Boletin de la Asociacion Argentina de Astronomia La Plata Argentina, 6, 41
+
+\bibitem[{{Shuntov} {et~al.}(2025){Shuntov}, {Ilbert}, {Toft}, {Arango-Toro}, {Akins}, {Casey}, {Franco}, {Harish}, {Kartaltepe}, {Koekemoer}, {McCracken}, {Paquereau}, {Laigle}, {Bethermin}, {Dubois}, {Drakos}, {Faisst}, {Gozaliasl}, {Gillman}, {Hayward}, {Hirschmann}, {Huertas-Company}, {Jespersen}, {Jin}, {Kokorev}, {Lambrides}, {Le Borgne}, {Liu}, {Magdis}, {Massey}, {McPartland}, {Mercier}, {McCleary}, {McKinney}, {Oesch}, {Renzini}, {Rhodes}, {Rich}, {Robertson}, {Sanders}, {Trebitsch}, {Tresse}, {Valentino}, {Vijayan}, {Weaver}, {Weibel}, {Wilkins}, \& {Yang}}]{Shuntov2024}
+{Shuntov}, M., {Ilbert}, O., {Toft}, S., {et~al.} 2025, \aap, 695, A20
+
+\bibitem[{{Skelton} {et~al.}(2014){Skelton}, {Whitaker}, {Momcheva}, {Brammer}, {van Dokkum}, {Labb{\'e}}, {Franx}, {van der Wel}, {Bezanson}, {Da Cunha}, {Fumagalli}, {F{\"o}rster Schreiber}, {Kriek}, {Leja}, {Lundgren}, {Magee}, {Marchesini}, {Maseda}, {Nelson}, {Oesch}, {Pacifici}, {Patel}, {Price}, {Rix}, {Tal}, {Wake}, \& {Wuyts}}]{Skelton2014}
+{Skelton}, R.~E., {Whitaker}, K.~E., {Momcheva}, I.~G., {et~al.} 2014, \apjs, 214, 24
+
+\bibitem[{{Stefanon} {et~al.}(2017){Stefanon}, {Yan}, {Mobasher}, {Barro}, {Donley}, {Fontana}, {Hemmati}, {Koekemoer}, {Lee}, {Lee}, {Nayyeri}, {Peth}, {Pforr}, {Salvato}, {Wiklind}, {Wuyts}, {Ashby}, {Castellano}, {Conselice}, {Cooper}, {Cooray}, {Dolch}, {Ferguson}, {Galametz}, {Giavalisco}, {Guo}, {Willner}, {Dickinson}, {Faber}, {Fazio}, {Gardner}, {Gawiser}, {Grazian}, {Grogin}, {Kocevski}, {Koo}, {Lee}, {Lucas}, {McGrath}, {Nandra}, {Newman}, \& {van der Wel}}]{stefanon2017}
+{Stefanon}, M., {Yan}, H., {Mobasher}, B., {et~al.} 2017, \apjs, 229, 32
+
+\bibitem[{{Sutherland} {et~al.}(2015){Sutherland}, {Emerson}, {Dalton}, {Atad-Ettedgui}, {Beard}, {Bennett}, {Bezawada}, {Born}, {Caldwell}, {Clark}, {Craig}, {Henry}, {Jeffers}, {Little}, {McPherson}, {Murray}, {Stewart}, {Stobie}, {Terrett}, {Ward}, {Whalley}, \& {Woodhouse}}]{2015A&A...575A..25S}
+{Sutherland}, W., {Emerson}, J., {Dalton}, G., {et~al.} 2015, \aap, 575, A25
+
+\bibitem[{Szalay {et~al.}(1999)Szalay, Connolly, \& Szokoly}]{szalay_simultaneous_1999}
+Szalay, A.~S., Connolly, A.~J., \& Szokoly, G.~P. 1999, \aj, 117, 68
+
+\bibitem[{{Tacchella} {et~al.}(2022){Tacchella}, {Finkelstein}, {Bagley}, {Dickinson}, {Ferguson}, {Giavalisco}, {Graziani}, {Grogin}, {Hathi}, {Hutchison}, {Jung}, {Koekemoer}, {Larson}, {Papovich}, {Pirzkal}, {Rojas-Ruiz}, {Song}, {Schneider}, {Somerville}, {Wilkins}, \& {Yung}}]{Tacchella22}
+{Tacchella}, S., {Finkelstein}, S.~L., {Bagley}, M., {et~al.} 2022, \apj, 927, 170
+
+\bibitem[{Taniguchi {et~al.}(2015)Taniguchi, Kajisawa, Kobayashi, Shioya, Nagao, Capak, Aussel, Ichikawa, Murayama, Scoville, Ilbert, Salvato, Sanders, Mobasher, Miyazaki, Komiyama, Le~Fèvre, Tasca, Lilly, Carollo, Renzini, Rich, Schinnerer, Kaifu, Karoji, Arimoto, Okamura, Ohta, Shimasaku, \& Hayashino}]{taniguchi_subaru_2015}
+Taniguchi, Y., Kajisawa, M., Kobayashi, M. A.~R., {et~al.} 2015, \pasj, 67
+
+\bibitem[{Taniguchi {et~al.}(2007)Taniguchi, Scoville, Murayama, Sanders, Mobasher, Aussel, Capak, Ajiki, Miyazaki, Komiyama, Shioya, Nagao, Sasaki, Koda, Carilli, Giavalisco, Guzzo, Hasinger, Impey, LeFevre, Lilly, Renzini, Rich, Schinnerer, Shopbell, Kaifu, Karoji, Arimoto, Okamura, \& Ohta}]{taniguchi_cosmic_2007}
+Taniguchi, Y., Scoville, N., Murayama, T., {et~al.} 2007, \apjs, 172, 9
+
+\bibitem[{{Teplitz} {et~al.}(2013){Teplitz}, {Rafelski}, {Kurczynski}, {Bond}, {Grogin}, {Koekemoer}, {Atek}, {Brown}, {Coe}, {Colbert}, {Ferguson}, {Finkelstein}, {Gardner}, {Gawiser}, {Giavalisco}, {Gronwall}, {Hanish}, {Lee}, {de Mello}, {Ravindranath}, {Ryan}, {Siana}, {Scarlata}, {Soto}, {Voyer}, \& {Wolfe}}]{Teplitz2013}
+{Teplitz}, H.~I., {Rafelski}, M., {Kurczynski}, P., {et~al.} 2013, \aj, 146, 159
+
+\bibitem[{{Toni} {et~al.}(2025){Toni}, {Gozaliasl}, {Maturi}, {Moscardini}, {Finoguenov}, {Castignani}, {Gentile}, {Virolainen}, {Casey}, {Kartaltepe}, {Akins}, {Allen}, {Arango-Toro}, {Babul}, {Brinch}, {Drakos}, {Faisst}, {Franco}, {Griffiths}, {Harish}, {Hasinger}, {Ilbert}, {Jin}, {Khostovan}, {Koekemoer}, {Korpi-Lagg}, {Larson}, {Lertprasertpong}, {Liu}, {Magdis}, {Massey}, {McCracken}, {McKinney}, {Paquereau}, {Rhodes}, {Robertson}, {Sargent}, {Shuntov}, {Tanaka}, {Taamoli}, {Tempel}, {Toft}, {Vardoulaki}, \& {Yang}}]{Toni2025}
+{Toni}, G., {Gozaliasl}, G., {Maturi}, M., {et~al.} 2025, arXiv e-prints, arXiv:2501.09060
+
+\bibitem[{{Trujillo} {et~al.}(2007){Trujillo}, {Conselice}, {Bundy}, {Cooper}, {Eisenhardt}, \& {Ellis}}]{Trujillo2007}
+{Trujillo}, I., {Conselice}, C.~J., {Bundy}, K., {et~al.} 2007, \mnras, 382, 109
+
+\bibitem[{{Vulcani} {et~al.}(2014){Vulcani}, {Bamford}, {H{\"a}u{\ss}ler}, {Vika}, {Rojas}, {Agius}, {Baldry}, {Bauer}, {Brown}, {Driver}, {Graham}, {Kelvin}, {Liske}, {Loveday}, {Popescu}, {Robotham}, \& {Tuffs}}]{Vulcani2014}
+{Vulcani}, B., {Bamford}, S.~P., {H{\"a}u{\ss}ler}, B., {et~al.} 2014, \mnras, 441, 1340
+
+\bibitem[{{Wan} {et~al.}(2024){Wan}, {Tacchella}, {Johnson}, {Iyer}, {Speagle}, \& {Maiolino}}]{Wuan2024}
+{Wan}, J.~T., {Tacchella}, S., {Johnson}, B.~D., {et~al.} 2024, \mnras, 532, 4002
+
+\bibitem[{{Weaver} {et~al.}(2022){Weaver}, {Kauffmann}, {Ilbert}, {McCracken}, {Moneti}, {Toft}, {Brammer}, {Shuntov}, {Davidzon}, {Hsieh}, {Laigle}, {Anastasiou}, {Jespersen}, {Vinther}, {Capak}, {Casey}, {McPartland}, {Milvang-Jensen}, {Mobasher}, {Sanders}, {Zalesky}, {Arnouts}, {Aussel}, {Dunlop}, {Faisst}, {Franx}, {Furtak}, {Fynbo}, {Gould}, {Greve}, {Gwyn}, {Kartaltepe}, {Kashino}, {Koekemoer}, {Kokorev}, {Le F{\`e}vre}, {Lilly}, {Masters}, {Magdis}, {Mehta}, {Peng}, {Riechers}, {Salvato}, {Sawicki}, {Scarlata}, {Scoville}, {Shirley}, {Silverman}, {Sneppen}, {Smolc̆i{\'c}}, {Steinhardt}, {Stern}, {Tanaka}, {Taniguchi}, {Teplitz}, {Vaccari}, {Wang}, \& {Zamorani}}]{weaver_cosmos2020_2022}
+{Weaver}, J.~R., {Kauffmann}, O.~B., {Ilbert}, O., {et~al.} 2022, \apjs, 258, 11
+
+\bibitem[{{Weaver} {et~al.}(2023){Weaver}, {Zalesky}, {Kokorev}, {McPartland}, {Chartab}, {Gould}, {Shuntov}, {Davidzon}, {Faisst}, {Stickley}, {Capak}, {Toft}, {Masters}, {Mobasher}, {Sanders}, {Kauffmann}, {McCracken}, {Ilbert}, {Brammer}, \& {Moneti}}]{WeaverFarmer2023}
+{Weaver}, J.~R., {Zalesky}, L., {Kokorev}, V., {et~al.} 2023, \apjs, 269, 20
+
+\bibitem[{Werner {et~al.}(2004)Werner, Roellig, Low, Rieke, Rieke, Hoffmann, Young, Houck, Brandl, Fazio, Hora, Gehrz, Helou, Soifer, Stauffer, Keene, Eisenhardt, Gallagher, Gautier, Irace, Lawrence, Simmons, Van~Cleve, Jura, Wright, \& Cruikshank}]{Werner2004}
+Werner, M.~W., Roellig, T.~L., Low, F.~J., {et~al.} 2004, \apjs, 154, 1
+
+\bibitem[{{Whitaker} {et~al.}(2011){Whitaker}, {Labb{\'e}}, {van Dokkum}, {Brammer}, {Kriek}, {Marchesini}, {Quadri}, {Franx}, {Muzzin}, {Williams}, {Bezanson}, {Illingworth}, {Lee}, {Lundgren}, {Nelson}, {Rudnick}, {Tal}, \& {Wake}}]{Whitaker2011}
+{Whitaker}, K.~E., {Labb{\'e}}, I., {van Dokkum}, P.~G., {et~al.} 2011, \apj, 735, 86
+
+\bibitem[{{Williams} {et~al.}(1996){Williams}, {Blacker}, {Dickinson}, {Dixon}, {Ferguson}, {Fruchter}, {Giavalisco}, {Gilliland }, {Heyer}, {Katsanis}, {Levay}, {Lucas}, {McElroy}, {Petro}, {Postman}, {Adorf}, \& {Hook}}]{Williams1996}
+{Williams}, R.~E., {Blacker}, B., {Dickinson}, M., {et~al.} 1996, \aj, 112, 1335
+
+\bibitem[{Wright {et~al.}(2022)Wright, Sabatke, \& Telfer}]{WrightMIRI}
+Wright, R.~H., Sabatke, D., \& Telfer, R. 2022, in Space Telescopes and Instrumentation 2022: Optical, Infrared, and Millimeter Wave, ed. L.~E. Coyle, S.~Matsuura, \& M.~D. Perrin, Vol. 12180, International Society for Optics and Photonics (SPIE), 121803P
+
+\bibitem[{{Yang} {et~al.}(2023){Yang}, {Papovich}, {Bagley}, {Ferguson}, {Finkelstein}, {Koekemoer}, {P{\'e}rez-Gonz{\'a}lez}, {Arrabal Haro}, {Bisigello}, {Caputi}, {Cheng}, {Costantin}, {Dickinson}, {Fontana}, {Gardner}, {Grazian}, {Grogin}, {Harish}, {Holwerda}, {Iani}, {Kartaltepe}, {Kewley}, {Kirkpatrick}, {Kocevski}, {Kokorev}, {Lotz}, {Lucas}, {Navarro-Carrera}, {Pentericci}, {Pirzkal}, {Ravindranath}, {Rinaldi}, {Shen}, {Somerville}, {Trump}, {de la Vega}, {Wilkins}, \& {Yung}}]{Yang2023b}
+{Yang}, G., {Papovich}, C., {Bagley}, M.~B., {et~al.} 2023, \apjl, 956, L12
+
+\bibitem[{{Yang} {et~al.}(2025){Yang}, {Kartaltepe}, {Franco}, {Ding}, {Achenbach}, {Arango-Toro}, {Casey}, {Drakos}, {Faisst}, {Gillman}, {Gozaliasl}, {Huertas-Company}, {Jin}, {Liu}, {Magdis}, {Massey}, {Silverman}, {Tanaka}, {Yu}, {Akins}, {Allen}, {Ilbert}, {Koekemoer}, {McCracken}, {Paquereau}, {Rhodes}, {Robertson}, {Shuntov}, \& {Toft}}]{Yang2025}
+{Yang}, L., {Kartaltepe}, J.~S., {Franco}, M., {et~al.} 2025, arXiv e-prints, arXiv:2504.07185
+
+\end{thebibliography}
